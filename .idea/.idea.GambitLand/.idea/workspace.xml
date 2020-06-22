@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8080025d-e466-449c-bf3d-a60b1f42460b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speech/TeleType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Speech/SpeechController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/EnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/DespawnController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager/SaveManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Characters/Core/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/GUI/MMRadialProgressBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Characters/Core/TopDownController2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/SmartPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GamePlay/EnemyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Editor/GUI/MMHealthBarEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/SingletonMono.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/GUI/MMProgressBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Spawn/CheckPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Characters/Core/Character.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/CardChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Characters/Core/TopDownController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/ActionCard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/GUI/MMHealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/CardElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/GUI/MMHealthBar.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Camera/MMCameraEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/CardController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/CardShock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/CardGamePlayManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMFeedbacks/MMFeedbacks/Core/MMFeedbacks.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllIn1SpriteShader/Scripts/SetAtlasUvs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/CardTrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Managers/GUIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMFeedbacks/MMFeedbacks/Core/MMFeedbacksHelpers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/GUI/MMProgressBarDemoAuto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllIn1SpriteShader/Scripts/AllIn1Shader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/CardSlot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/TextInfoController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Managers/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/DragDrop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Managers/GameManager.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/Dice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/FuryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/FuryUIText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/FuryUIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/LoseWinController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Managers/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/Attributes/MMReadOnlyAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GamePlay/LevelManagerGamePLay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSingletons/MMSingleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/ShieldController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/Events/MMEventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GamePlay/TutorialGamePlay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/DiceController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMFeedbacks/MMFeedbacksForThirdParty/PostProcessing/Shakers/MMBloomShaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager/GameManager.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMFeedbacks/MMFeedbacksForThirdParty/PostProcessing/Shakers/MMVignetteShaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/MMControls/MMTouchDynamicJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GamePlay/GridManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GamePlay/CinemaController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/MMControls/MMTouchJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMFeedbacks/MMFeedbacksForThirdParty/PostProcessing/Feedbacks/MMFeedbackVignette.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GamePlay/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/TextDamageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Demos/Grasslands/Scripts/GrasslandHUD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GamePlay/Preloader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Characters/CharacterAbilities/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager/DataPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/ScriptsCinemachine/Camera/CinemachineCameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/RobotController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Characters/AI/Advanced/AIDecisionGrounded.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/DeactiveController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/JackbotPanelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager/EnemyData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager/ManagerLand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/MoreMountains.TopDownEngine.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/DBCard/CardDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/Gamefeel.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllIn1SpriteShader/Demo/Scripts/DemoItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AllIn1SpriteShader/Demo/Scripts/DemoController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardGame/TutorialController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/GamePlay/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/GUI/AmmoDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TopDownEngine/Common/Scripts/Managers/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlay/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelManagerGamePLay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GridManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TopDownEngine/Common/ScriptsCinemachine/Camera/CinemachineCameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/LevelManagerGamePLay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlay/CinemaController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/GamePlay/Speech/SpeechController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Speech/TeleType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DB/NameEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/MMControls/MMTouchJoystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Speech/SpeechController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlay/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/SmartPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/InfoManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/FuryUIText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/ActionCard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/DeactiveController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/TextDamageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlay/EnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/LoseWinController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/ShieldController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlay/Preloader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager/ManagerLand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/EnemyAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlay/TutorialGamePlay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager/EnemyData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/TextInfoController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/CardTrap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/DBCard/CardDB.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/CardController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/FuryUIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/FuryController.cs" />
+        <option value="$PROJECT_DIR$/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/GUI/MMProgressBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager/SaveManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/JackbotPanelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/RobotController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/DragDrop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/DiceController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/CardGamePlayManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/CardSlot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/GamePlay/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlay/GridManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardGame/TutorialController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlay/LevelManagerGamePLay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager/DataPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager/GameManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YmcxclBoL6kkV2amDlKrbk4gbK" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8080025d-e466-449c-bf3d-a60b1f42460b" name="Default Changelist" comment="" />
+      <created>1583551458747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583551458747</updated>
+      <workItem from="1583551462281" duration="1426000" />
+      <workItem from="1585795166539" duration="1324000" />
+      <workItem from="1585796579542" duration="66000" />
+      <workItem from="1585796685053" duration="4926000" />
+      <workItem from="1585814829465" duration="6445000" />
+      <workItem from="1585830622846" duration="6478000" />
+      <workItem from="1585878539420" duration="3729000" />
+      <workItem from="1585894244250" duration="9001000" />
+      <workItem from="1585967976071" duration="4575000" />
+      <workItem from="1585982022161" duration="7261000" />
+      <workItem from="1586055057494" duration="4331000" />
+      <workItem from="1586069912413" duration="8574000" />
+      <workItem from="1586141496995" duration="1800000" />
+      <workItem from="1586143316713" duration="1809000" />
+      <workItem from="1586145148838" duration="1746000" />
+      <workItem from="1586154766137" duration="851000" />
+      <workItem from="1586158927249" duration="1758000" />
+      <workItem from="1586160746668" duration="1792000" />
+      <workItem from="1586162694799" duration="637000" />
+      <workItem from="1586226778306" duration="1789000" />
+      <workItem from="1586230685641" duration="109000" />
+      <workItem from="1586311853522" duration="1814000" />
+      <workItem from="1586313687390" duration="1792000" />
+      <workItem from="1586315502754" duration="1365000" />
+      <workItem from="1586400475468" duration="1821000" />
+      <workItem from="1586403407581" duration="1793000" />
+      <workItem from="1586405302627" duration="601000" />
+      <workItem from="1586421834630" duration="1787000" />
+      <workItem from="1586423645329" duration="1800000" />
+      <workItem from="1586426500883" duration="1815000" />
+      <workItem from="1586428483199" duration="688000" />
+      <workItem from="1586697446819" duration="1786000" />
+      <workItem from="1586699319876" duration="1790000" />
+      <workItem from="1586701151104" duration="1746000" />
+      <workItem from="1586744356899" duration="1788000" />
+      <workItem from="1586746176614" duration="201000" />
+      <workItem from="1586746488426" duration="1793000" />
+      <workItem from="1586748404594" duration="1217000" />
+      <workItem from="1586758259013" duration="1521000" />
+      <workItem from="1586760381974" duration="1790000" />
+      <workItem from="1586763118210" duration="1332000" />
+      <workItem from="1586828370341" duration="1814000" />
+      <workItem from="1586831341850" duration="1587000" />
+      <workItem from="1586833154963" duration="1785000" />
+      <workItem from="1586835861099" duration="655000" />
+      <workItem from="1586857363006" duration="1821000" />
+      <workItem from="1586919637832" duration="1839000" />
+      <workItem from="1586953970975" duration="245000" />
+      <workItem from="1587002963454" duration="874000" />
+      <workItem from="1587091945920" duration="1797000" />
+      <workItem from="1587093763903" duration="2118000" />
+      <workItem from="1587106974654" duration="1290000" />
+      <workItem from="1587109343111" duration="1792000" />
+      <workItem from="1587111168241" duration="1138000" />
+      <workItem from="1587175845342" duration="1515000" />
+      <workItem from="1587178956793" duration="1359000" />
+      <workItem from="1587180773904" duration="1516000" />
+      <workItem from="1587202006865" duration="1507000" />
+      <workItem from="1587217111917" duration="599000" />
+      <workItem from="1587263323762" duration="1799000" />
+      <workItem from="1587266071506" duration="249000" />
+      <workItem from="1587266458091" duration="1795000" />
+      <workItem from="1587268291701" duration="1490000" />
+      <workItem from="1587279980982" duration="1788000" />
+      <workItem from="1587281932578" duration="1805000" />
+      <workItem from="1587283914529" duration="1254000" />
+      <workItem from="1587289417602" duration="1700000" />
+      <workItem from="1587347934278" duration="1793000" />
+      <workItem from="1587350142055" duration="1791000" />
+      <workItem from="1587352189551" duration="1793000" />
+      <workItem from="1587355487990" duration="513000" />
+      <workItem from="1587374880610" duration="1789000" />
+      <workItem from="1587376695084" duration="1337000" />
+      <workItem from="1587390332365" duration="1802000" />
+      <workItem from="1587392245239" duration="1547000" />
+      <workItem from="1587435779168" duration="599000" />
+      <workItem from="1587438970838" duration="1564000" />
+      <workItem from="1587454887284" duration="1767000" />
+      <workItem from="1587456784520" duration="1798000" />
+      <workItem from="1587458632947" duration="438000" />
+      <workItem from="1587474466947" duration="1785000" />
+      <workItem from="1587476289578" duration="1841000" />
+      <workItem from="1587478191212" duration="1823000" />
+      <workItem from="1587480348216" duration="285000" />
+      <workItem from="1587521770684" duration="183000" />
+      <workItem from="1587522341069" duration="642000" />
+      <workItem from="1587525667869" duration="599000" />
+      <workItem from="1587544342674" duration="735000" />
+      <workItem from="1587547148781" duration="1950000" />
+      <workItem from="1587549691532" duration="234000" />
+      <workItem from="1587559899679" duration="1705000" />
+      <workItem from="1587561781940" duration="1793000" />
+      <workItem from="1587563682416" duration="1701000" />
+      <workItem from="1587566098308" duration="723000" />
+      <workItem from="1587566896745" duration="230000" />
+      <workItem from="1587608375367" duration="1805000" />
+      <workItem from="1587610258118" duration="512000" />
+      <workItem from="1587610798171" duration="1409000" />
+      <workItem from="1587613022630" duration="372000" />
+      <workItem from="1587623067340" duration="1710000" />
+      <workItem from="1587625606642" duration="459000" />
+      <workItem from="1587626865207" duration="199000" />
+      <workItem from="1587693656779" duration="975000" />
+      <workItem from="1587717535010" duration="617000" />
+      <workItem from="1587720176442" duration="1240000" />
+      <workItem from="1587723673062" duration="532000" />
+      <workItem from="1587780646058" duration="1135000" />
+      <workItem from="1587783494373" duration="1730000" />
+      <workItem from="1587785544366" duration="1187000" />
+      <workItem from="1587806812917" duration="1801000" />
+      <workItem from="1587808748054" duration="81000" />
+      <workItem from="1587808965192" duration="1874000" />
+      <workItem from="1587819570268" duration="1587000" />
+      <workItem from="1587821822474" duration="1814000" />
+      <workItem from="1587823684372" duration="1820000" />
+      <workItem from="1587825723475" duration="1060000" />
+      <workItem from="1587867216663" duration="9000" />
+      <workItem from="1587867427941" duration="1126000" />
+      <workItem from="1587882891732" duration="2106000" />
+      <workItem from="1587885430434" duration="1072000" />
+      <workItem from="1587886744318" duration="1814000" />
+      <workItem from="1587891360245" duration="1502000" />
+      <workItem from="1587894473782" duration="1286000" />
+      <workItem from="1587906416338" duration="1788000" />
+      <workItem from="1587908714776" duration="1309000" />
+      <workItem from="1587954430375" duration="1748000" />
+      <workItem from="1587958070031" duration="1819000" />
+      <workItem from="1587980211054" duration="1872000" />
+      <workItem from="1587982322783" duration="1476000" />
+      <workItem from="1588038872671" duration="1796000" />
+      <workItem from="1588040736024" duration="1836000" />
+      <workItem from="1588042647579" duration="1836000" />
+      <workItem from="1588044528634" duration="1940000" />
+      <workItem from="1588056254018" duration="791000" />
+      <workItem from="1588057247512" duration="1800000" />
+      <workItem from="1588059106416" duration="1792000" />
+      <workItem from="1588060934872" duration="1509000" />
+      <workItem from="1588083415045" duration="1839000" />
+      <workItem from="1588085422066" duration="1824000" />
+      <workItem from="1588087528860" duration="1880000" />
+      <workItem from="1588089778041" duration="943000" />
+      <workItem from="1588126222077" duration="1787000" />
+      <workItem from="1588128091427" duration="1796000" />
+      <workItem from="1588130262675" duration="1052000" />
+      <workItem from="1588142145498" duration="1802000" />
+      <workItem from="1588144007573" duration="1810000" />
+      <workItem from="1588146043389" duration="99000" />
+      <workItem from="1588169592730" duration="1109000" />
+      <workItem from="1588216049305" duration="1701000" />
+      <workItem from="1588241344873" duration="1717000" />
+      <workItem from="1588301746167" duration="1796000" />
+      <workItem from="1588303609677" duration="1921000" />
+      <workItem from="1588314719414" duration="1786000" />
+      <workItem from="1588316611972" duration="1799000" />
+      <workItem from="1588338270381" duration="1229000" />
+      <workItem from="1588340656710" duration="1646000" />
+      <workItem from="1588343107575" duration="1386000" />
+      <workItem from="1588384169712" duration="1933000" />
+      <workItem from="1588386163657" duration="1791000" />
+      <workItem from="1588389427343" duration="2179000" />
+      <workItem from="1588402311603" duration="599000" />
+      <workItem from="1588408308099" duration="1047000" />
+      <workItem from="1588488793169" duration="601000" />
+      <workItem from="1588554513182" duration="1784000" />
+      <workItem from="1588556752136" duration="1862000" />
+      <workItem from="1588559865472" duration="607000" />
+      <workItem from="1588573576582" duration="889000" />
+      <workItem from="1588575885891" duration="822000" />
+      <workItem from="1588597849873" duration="1888000" />
+      <workItem from="1588600160205" duration="1391000" />
+      <workItem from="1588644599919" duration="599000" />
+      <workItem from="1588727300440" duration="1842000" />
+      <workItem from="1588729218313" duration="87000" />
+      <workItem from="1588729547700" duration="1831000" />
+      <workItem from="1588731668898" duration="1877000" />
+      <workItem from="1588733698281" duration="1797000" />
+      <workItem from="1588735584736" duration="1791000" />
+      <workItem from="1588737460467" duration="356000" />
+      <workItem from="1588756867398" duration="1968000" />
+      <workItem from="1588760900375" duration="601000" />
+      <workItem from="1588815711828" duration="1954000" />
+      <workItem from="1588817946531" duration="835000" />
+      <workItem from="1588820246130" duration="1808000" />
+      <workItem from="1588839682802" duration="1580000" />
+      <workItem from="1588905292635" duration="1229000" />
+      <workItem from="1589269575056" duration="1791000" />
+      <workItem from="1589271426641" duration="1836000" />
+      <workItem from="1589273290175" duration="1798000" />
+      <workItem from="1589275776899" duration="660000" />
+      <workItem from="1589287322228" duration="1377000" />
+      <workItem from="1589289488599" duration="1445000" />
+      <workItem from="1589291432108" duration="723000" />
+      <workItem from="1589335149520" duration="1668000" />
+      <workItem from="1589338545611" duration="1301000" />
+      <workItem from="1589443831580" duration="1825000" />
+      <workItem from="1589461790771" duration="1357000" />
+      <workItem from="1589463663666" duration="1789000" />
+      <workItem from="1589465753034" duration="1796000" />
+      <workItem from="1589505799463" duration="1812000" />
+      <workItem from="1589507711555" duration="1792000" />
+      <workItem from="1589511298674" duration="977000" />
+      <workItem from="1589513301926" duration="1243000" />
+      <workItem from="1589529507966" duration="1529000" />
+      <workItem from="1589531804031" duration="1174000" />
+      <workItem from="1589547018457" duration="1807000" />
+      <workItem from="1589548857457" duration="1876000" />
+      <workItem from="1589550775994" duration="1795000" />
+      <workItem from="1589552678116" duration="1795000" />
+      <workItem from="1589554492678" duration="1544000" />
+      <workItem from="1589593484697" duration="1835000" />
+      <workItem from="1589612478493" duration="923000" />
+      <workItem from="1589619269703" duration="1383000" />
+      <workItem from="1589632874605" duration="1792000" />
+      <workItem from="1589634741377" duration="1454000" />
+      <workItem from="1589636596524" duration="1781000" />
+      <workItem from="1589638488280" duration="778000" />
+      <workItem from="1589679854370" duration="1250000" />
+      <workItem from="1589681699633" duration="1794000" />
+      <workItem from="1589699868380" duration="1549000" />
+      <workItem from="1589704727664" duration="644000" />
+      <workItem from="1589721123917" duration="1640000" />
+      <workItem from="1589723235826" duration="146000" />
+      <workItem from="1589723531148" duration="1152000" />
+      <workItem from="1589725450098" duration="824000" />
+      <workItem from="1589772575108" duration="1793000" />
+      <workItem from="1589774407794" duration="45000" />
+      <workItem from="1589851370460" duration="1792000" />
+      <workItem from="1589854222807" duration="1807000" />
+      <workItem from="1589856802004" duration="1811000" />
+      <workItem from="1589858813907" duration="1834000" />
+      <workItem from="1589860746751" duration="627000" />
+      <workItem from="1589867787242" duration="619000" />
+      <workItem from="1589876171947" duration="1787000" />
+      <workItem from="1589878017063" duration="1794000" />
+      <workItem from="1589939235774" duration="1434000" />
+      <workItem from="1589941111309" duration="1802000" />
+      <workItem from="1589943298139" duration="1793000" />
+      <workItem from="1589945124258" duration="1788000" />
+      <workItem from="1589946939392" duration="479000" />
+      <workItem from="1589963824387" duration="163000" />
+      <workItem from="1589964117806" duration="1791000" />
+      <workItem from="1589966019035" duration="1793000" />
+      <workItem from="1589967913735" duration="1504000" />
+      <workItem from="1589969830434" duration="557000" />
+      <workItem from="1589981215578" duration="1408000" />
+      <workItem from="1590026844202" duration="1818000" />
+      <workItem from="1590028693847" duration="1804000" />
+      <workItem from="1590030584589" duration="1341000" />
+      <workItem from="1590111371213" duration="130000" />
+      <workItem from="1590111639565" duration="1792000" />
+      <workItem from="1590113579406" duration="1624000" />
+      <workItem from="1590115520309" duration="1523000" />
+      <workItem from="1590198232467" duration="1796000" />
+      <workItem from="1590201975143" duration="1584000" />
+      <workItem from="1590204976078" duration="1815000" />
+      <workItem from="1590214642234" duration="1374000" />
+      <workItem from="1590222896369" duration="2212000" />
+      <workItem from="1590225455043" duration="2031000" />
+      <workItem from="1590227519633" duration="1797000" />
+      <workItem from="1590229409992" duration="634000" />
+      <workItem from="1590240695046" duration="1855000" />
+      <workItem from="1590243384111" duration="991000" />
+      <workItem from="1590285048500" duration="1798000" />
+      <workItem from="1590286884154" duration="1857000" />
+      <workItem from="1590288761037" duration="1841000" />
+      <workItem from="1590290699297" duration="1950000" />
+      <workItem from="1590306083104" duration="1792000" />
+      <workItem from="1590307900539" duration="866000" />
+      <workItem from="1590370218432" duration="1816000" />
+      <workItem from="1590372118235" duration="1798000" />
+      <workItem from="1590375947868" duration="1696000" />
+      <workItem from="1590377915281" duration="1479000" />
+      <workItem from="1590458086839" duration="709000" />
+      <workItem from="1590474043311" duration="1784000" />
+      <workItem from="1590632662639" duration="668000" />
+      <workItem from="1590633612175" duration="638000" />
+      <workItem from="1590650451120" duration="50000" />
+      <workItem from="1590650642781" duration="1790000" />
+      <workItem from="1590652576237" duration="1417000" />
+      <workItem from="1590657251218" duration="304000" />
+      <workItem from="1590671596539" duration="1761000" />
+      <workItem from="1590673481864" duration="361000" />
+      <workItem from="1590721348981" duration="1805000" />
+      <workItem from="1590723389303" duration="1793000" />
+      <workItem from="1590725223093" duration="772000" />
+      <workItem from="1590739128180" duration="1794000" />
+      <workItem from="1590741150633" duration="1792000" />
+      <workItem from="1590742963279" duration="42000" />
+      <workItem from="1590743147082" duration="1535000" />
+      <workItem from="1590803136845" duration="1786000" />
+      <workItem from="1590805010610" duration="1823000" />
+      <workItem from="1590806865268" duration="1827000" />
+      <workItem from="1590808869550" duration="1946000" />
+      <workItem from="1590810893290" duration="417000" />
+      <workItem from="1590886810225" duration="1791000" />
+      <workItem from="1590888662093" duration="55000" />
+      <workItem from="1590888845867" duration="1667000" />
+      <workItem from="1591064336493" duration="1862000" />
+      <workItem from="1591067021944" duration="1792000" />
+      <workItem from="1591068927806" duration="1818000" />
+      <workItem from="1591101417821" duration="37000" />
+      <workItem from="1591101500753" duration="1532000" />
+      <workItem from="1591103433434" duration="1792000" />
+      <workItem from="1591105426046" duration="1774000" />
+      <workItem from="1591150601836" duration="1548000" />
+      <workItem from="1591235897070" duration="1542000" />
+      <workItem from="1591237461200" duration="987000" />
+      <workItem from="1591325127471" duration="1081000" />
+      <workItem from="1591326947328" duration="1792000" />
+      <workItem from="1591329041374" duration="642000" />
+      <workItem from="1591411363377" duration="1489000" />
+      <workItem from="1591413304661" duration="1743000" />
+      <workItem from="1591495689632" duration="1785000" />
+      <workItem from="1591497529596" duration="1806000" />
+      <workItem from="1591499453536" duration="1786000" />
+      <workItem from="1591581891523" duration="1815000" />
+      <workItem from="1591583886455" duration="1817000" />
+      <workItem from="1591585812766" duration="1793000" />
+      <workItem from="1591587720807" duration="430000" />
+      <workItem from="1591622120055" duration="1762000" />
+      <workItem from="1591671529532" duration="1855000" />
+      <workItem from="1591673451919" duration="1097000" />
+      <workItem from="1591708124607" duration="1816000" />
+      <workItem from="1591710080718" duration="1809000" />
+      <workItem from="1591711916423" duration="922000" />
+      <workItem from="1591755103339" duration="1641000" />
+      <workItem from="1591757033765" duration="1793000" />
+      <workItem from="1591791633567" duration="1816000" />
+      <workItem from="1591793469581" duration="1799000" />
+      <workItem from="1591795361843" duration="320000" />
+      <workItem from="1591796037047" duration="1795000" />
+      <workItem from="1591798232308" duration="1947000" />
+      <workItem from="1591800256852" duration="175000" />
+      <workItem from="1591842187958" duration="1787000" />
+      <workItem from="1591844060932" duration="1829000" />
+      <workItem from="1591846127806" duration="2038000" />
+      <workItem from="1591881342182" duration="1568000" />
+      <workItem from="1591883261773" duration="1032000" />
+      <workItem from="1591928068801" duration="1803000" />
+      <workItem from="1591930831522" duration="1839000" />
+      <workItem from="1591932755891" duration="1026000" />
+      <workItem from="1592016589599" duration="599000" />
+      <workItem from="1592058454037" duration="1563000" />
+      <workItem from="1592102317122" duration="1142000" />
+      <workItem from="1592104421411" duration="1809000" />
+      <workItem from="1592145602401" duration="1806000" />
+      <workItem from="1592188848928" duration="1787000" />
+      <workItem from="1592190750138" duration="1802000" />
+      <workItem from="1592192594717" duration="1343000" />
+      <workItem from="1592204215129" duration="1786000" />
+      <workItem from="1592206085930" duration="1748000" />
+      <workItem from="1592207942637" duration="1801000" />
+      <workItem from="1592213170484" duration="1853000" />
+      <workItem from="1592215077243" duration="637000" />
+      <workItem from="1592229923262" duration="1787000" />
+      <workItem from="1592231786732" duration="1139000" />
+      <workItem from="1592233693918" duration="1089000" />
+      <workItem from="1592275874689" duration="1742000" />
+      <workItem from="1592314752562" duration="1388000" />
+      <workItem from="1592361556247" duration="1440000" />
+      <workItem from="1592447882829" duration="1786000" />
+      <workItem from="1592449765512" duration="656000" />
+      <workItem from="1592623269622" duration="1694000" />
+      <workItem from="1592625144510" duration="700000" />
+      <workItem from="1592660555958" duration="1798000" />
+      <workItem from="1592704093130" duration="1834000" />
+      <workItem from="1592706263610" duration="1803000" />
+      <workItem from="1592708275939" duration="1789000" />
+      <workItem from="1592710417354" duration="1074000" />
+      <workItem from="1592792776682" duration="361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

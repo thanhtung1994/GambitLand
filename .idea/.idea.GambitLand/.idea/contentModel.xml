@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_GambitLand.-1754300728.00" t="ExcludeRecursive" />
+    <e p="E:\Unity\GambitLand" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AllIn1SpriteShader" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Demo2AutoScroll.cs" t="Include" />
+              <e p="DemoCamera.cs" t="Include" />
+              <e p="DemoCircleExpositor.cs" t="Include" />
+              <e p="DemoController.cs" t="Include" />
+              <e p="DemoItem.cs" t="Include" />
+              <e p="DemoRandomColorSwap.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="AllIn1ShaderScriptEditor.cs" t="Include" />
+            <e p="AllIn1SpriteShader.cs" t="Include" />
+            <e p="AllIn1SpriteShaderLight.cs" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="AllIn1OneShaderFunctions.cginc" t="Include" />
+            <e p="AllIn1SpriteShader.shader" t="Include" />
+            <e p="AllIn1SpriteShaderLight.shader" t="Include" />
+            <e p="AllIn1SpriteShaderScrollView.shader" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AllIn1Shader.cs" t="Include" />
+            <e p="SetAtlasUvs.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Epic Toon FX" t="Include">
+          <e p="Demo" t="Include">
+            <e p="ParticleEffectsShowcase" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="ParticleEffectsLibrary.cs" t="Include" />
+                <e p="PEButtonScript.cs" t="Include" />
+                <e p="PEDestoryTimed.cs" t="Include" />
+                <e p="UICanvasManager.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="ETFXButtonScript.cs" t="Include" />
+              <e p="ETFXFireProjectile.cs" t="Include" />
+              <e p="ETFXLoopScript.cs" t="Include" />
+              <e p="ETFXMouseOrbit.cs" t="Include" />
+              <e p="ETFXProjectileScript.cs" t="Include" />
+              <e p="ETFXSceneManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ETFX Readme.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="ETFXLightFade.cs" t="Include" />
+            <e p="ETFXPitchRandomizer.cs" t="Include" />
+            <e p="ETFXRotation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="I2" t="Include">
+          <e p="Localization" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Common" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="CallbackNotification.cs" t="Include" />
+                  <e p="Example_ChangeLanguage.cs" t="Include" />
+                  <e p="Example_LocalizedString.cs" t="Include" />
+                  <e p="GlobalParametersExample.cs" t="Include" />
+                  <e p="NGUI_LanguagePopup.cs" t="Include" />
+                  <e p="RealTimeTranslation.cs" t="Include" />
+                  <e p="RegisterBundlesManager.cs" t="Include" />
+                  <e p="ToggleLanguage.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="readme.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="Configurables" t="Include">
+                <e p="PersistentStorage.cs" t="Include" />
+                <e p="SpecializationManager.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="EditorTools.cs" t="Include" />
+                <e p="Inspectors" t="Include">
+                  <e p="LanguageSourceAssetInspector.cs" t="Include" />
+                  <e p="LanguageSourceInspector.cs" t="Include" />
+                  <e p="LocalizationEditor.cs" t="Include" />
+                  <e p="LocalizationParamsManagerInspector.cs" t="Include" />
+                  <e p="LocalizeDropdownInspector.cs" t="Include" />
+                  <e p="LocalizeInspector.cs" t="Include" />
+                  <e p="ResourceManagerInspector.cs" t="Include" />
+                  <e p="SetLanguageInspector.cs" t="Include" />
+                  <e p="TermsPopup_Drawer.cs" t="Include" />
+                </e>
+                <e p="Localization" t="Include">
+                  <e p="LocalizationEditor.cs" t="Include" />
+                  <e p="LocalizationEditor_Languages.cs" t="Include" />
+                  <e p="LocalizationEditor_Spreadsheet_Google.cs" t="Include" />
+                  <e p="LocalizationEditor_Spreadsheet_Local.cs" t="Include" />
+                  <e p="LocalizationEditor_Terms.cs" t="Include" />
+                  <e p="LocalizationEditor_Terms_Description.cs" t="Include" />
+                  <e p="LocalizationEditor_Tools.cs" t="Include" />
+                  <e p="LocalizationEditor_Tools_Categorize.cs" t="Include" />
+                  <e p="LocalizationEditor_Tools_CharSet.cs" t="Include" />
+                  <e p="LocalizationEditor_Tools_MergeTerms.cs" t="Include" />
+                  <e p="LocalizationEditor_Tools_NoLocalized.cs" t="Include" />
+                  <e p="LocalizationEditor_Tools_ParseTerms.cs" t="Include" />
+                  <e p="LocalizationEditor_Tools_Scenes.cs" t="Include" />
+                  <e p="LocalizationEditor_Tools_Script.cs" t="Include" />
+                  <e p="LocalizationEditor_Warnings.cs" t="Include" />
+                </e>
+                <e p="PostProcessBuild_ANDROID.cs" t="Include" />
+                <e p="PostProcessBuild_IOS.cs" t="Include" />
+                <e p="PostProcessBuild_UnloadLanguages.cs" t="Include" />
+                <e p="Unity XCode" t="Include">
+                  <e p="Xcode.txt" t="Include" />
+                </e>
+                <e p="UpgradeManager.cs" t="Include" />
+              </e>
+              <e p="EventCallback.cs" t="Include" />
+              <e p="Google" t="Include">
+                <e p="GoogleLanguages.cs" t="Include" />
+                <e p="GoogleTranslation.cs" t="Include" />
+                <e p="GoogleTranslation_Post.cs" t="Include" />
+                <e p="GoogleTranslation_Queries.cs" t="Include" />
+                <e p="SimpleJSON.cs" t="Include" />
+                <e p="TranslationJob.cs" t="Include" />
+                <e p="TranslationJob_GET.cs" t="Include" />
+                <e p="TranslationJob_Main.cs" t="Include" />
+                <e p="TranslationJob_POST.cs" t="Include" />
+                <e p="TranslationJob_WEB.cs" t="Include" />
+              </e>
+              <e p="LanguageData.cs" t="Include" />
+              <e p="LanguageSource" t="Include">
+                <e p="LanguageSource.cs" t="Include" />
+                <e p="LanguageSourceAsset.cs" t="Include" />
+                <e p="LanguageSourceData.cs" t="Include" />
+                <e p="LanguageSourceData_Assets.cs" t="Include" />
+                <e p="LanguageSourceData_Export_CSV.cs" t="Include" />
+                <e p="LanguageSourceData_Export_Google.cs" t="Include" />
+                <e p="LanguageSourceData_Import_CSV.cs" t="Include" />
+                <e p="LanguageSourceData_Import_Google.cs" t="Include" />
+                <e p="LanguageSourceData_Languages.cs" t="Include" />
+                <e p="LanguageSourceData_Misc.cs" t="Include" />
+                <e p="LanguageSourceData_Terms.cs" t="Include" />
+              </e>
+              <e p="LocalizationReader.cs" t="Include" />
+              <e p="Localize.cs" t="Include" />
+              <e p="LocalizeDropdown.cs" t="Include" />
+              <e p="Manager" t="Include">
+                <e p="LocalizationManager.cs" t="Include" />
+                <e p="LocalizationManager_Language.cs" t="Include" />
+                <e p="LocalizationManager_Parameters.cs" t="Include" />
+                <e p="LocalizationManager_RTL.cs" t="Include" />
+                <e p="LocalizationManager_Sources.cs" t="Include" />
+                <e p="LocalizationManager_SystemLanguage.cs" t="Include" />
+                <e p="LocalizationManager_Targets.cs" t="Include" />
+                <e p="LocalizationManager_Translation.cs" t="Include" />
+              </e>
+              <e p="Targets" t="Include">
+                <e p="ILocalizeTarget.cs" t="Include" />
+                <e p="ILocalizeTargetDesc.cs" t="Include" />
+                <e p="LocalizeTarget_2DToolKit_Label.cs" t="Include" />
+                <e p="LocalizeTarget_2DToolKit_Sprite.cs" t="Include" />
+                <e p="LocalizeTarget_NGUI_Label.cs" t="Include" />
+                <e p="LocalizeTarget_NGUI_Sprite.cs" t="Include" />
+                <e p="LocalizeTarget_NGUI_Texture.cs" t="Include" />
+                <e p="LocalizeTarget_SVGImporter_Image.cs" t="Include" />
+                <e p="LocalizeTarget_SVGImporter_Renderer.cs" t="Include" />
+                <e p="LocalizeTarget_TextMeshPro_Label.cs" t="Include" />
+                <e p="LocalizeTarget_TextMeshPro_UGUI.cs" t="Include" />
+                <e p="LocalizeTarget_UnityStandard_AudioSource.cs" t="Include" />
+                <e p="LocalizeTarget_UnityStandard_Child.cs" t="Include" />
+                <e p="LocalizeTarget_UnityStandard_GUIText.cs" t="Include" />
+                <e p="LocalizeTarget_UnityStandard_GUITexture.cs" t="Include" />
+                <e p="LocalizeTarget_UnityStandard_Prefab.cs" t="Include" />
+                <e p="LocalizeTarget_UnityStandard_SpriteRenderer.cs" t="Include" />
+                <e p="LocalizeTarget_UnityStandard_TextMesh.cs" t="Include" />
+                <e p="LocalizeTarget_UnityUI_Image.cs" t="Include" />
+                <e p="LocalizeTarget_UnityUI_RawImage.cs" t="Include" />
+                <e p="LocalizeTarget_UnityUI_Text.cs" t="Include" />
+              </e>
+              <e p="TermData.cs" t="Include" />
+              <e p="Utils" t="Include">
+                <e p="AutoChangeCultureInfo.cs" t="Include" />
+                <e p="CoroutineManager.cs" t="Include" />
+                <e p="CustomLocalizeCallback.cs" t="Include" />
+                <e p="HindiFixer.cs" t="Include" />
+                <e p="I2Utils.cs" t="Include" />
+                <e p="LocalizationParamsManager.cs" t="Include" />
+                <e p="LocalizedString.cs" t="Include" />
+                <e p="RegisterGlobalParameters.cs" t="Include" />
+                <e p="ResourceManager.cs" t="Include" />
+                <e p="RTLFixer.cs" t="Include" />
+                <e p="SetLanguage.cs" t="Include" />
+                <e p="SetLanguageDropdown.cs" t="Include" />
+                <e p="StringObfuscator.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Pixel Arsenal" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="PixelArsenalBeamScript.cs" t="Include" />
+              <e p="PixelArsenalButtonScript.cs" t="Include" />
+              <e p="PixelArsenalDragMouseOrbit.cs" t="Include" />
+              <e p="PixelArsenalFireProjectile.cs" t="Include" />
+              <e p="PixelArsenalProjectileScript.cs" t="Include" />
+              <e p="PixelArsenalSceneSelect.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Monsters_Pirates_Pack" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Example_Motion_Attack_Controller.cs" t="Include" />
+              <e p="Example_Motion_Controller.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Pixel Arsenal - ReadMe.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="PixelArsenalLightFade.cs" t="Include" />
+            <e p="PixelArsenalLightFlicker.cs" t="Include" />
+            <e p="PixelArsenalLoopScript.cs" t="Include" />
+            <e p="PixelArsenalRotation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Prefabs" t="Include">
+          <e p="Gameplay" t="Include">
+            <e p="PlayerController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="DBCard" t="Include">
+            <e p="CardDB.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Retro Pixel Monsters" t="Include">
+          <e p="!RetroPixelMonsters - ReadMe!.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="SpriteSkin.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AI" t="Include">
+            <e p="EnemyAI.cs" t="Include" />
+          </e>
+          <e p="CardGame" t="Include">
+            <e p="ActionCard.cs" t="Include" />
+            <e p="CardChange.cs" t="Include" />
+            <e p="CardController.cs" t="Include" />
+            <e p="CardElement.cs" t="Include" />
+            <e p="CardGamePlayManager.cs" t="Include" />
+            <e p="CardShock.cs" t="Include" />
+            <e p="CardSlot.cs" t="Include" />
+            <e p="CardTrap.cs" t="Include" />
+            <e p="Dice.cs" t="Include" />
+            <e p="DiceController.cs" t="Include" />
+            <e p="DragDrop.cs" t="Include" />
+            <e p="FuryController.cs" t="Include" />
+            <e p="FuryUIController.cs" t="Include" />
+            <e p="FuryUIText.cs" t="Include" />
+            <e p="Health.cs" t="Include" />
+            <e p="JackbotPanelController.cs" t="Include" />
+            <e p="LoseWinController.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="RobotController.cs" t="Include" />
+            <e p="ShieldController.cs" t="Include" />
+            <e p="TextDamageController.cs" t="Include" />
+            <e p="TextInfoController.cs" t="Include" />
+            <e p="TutorialController.cs" t="Include" />
+          </e>
+          <e p="Common" t="Include">
+            <e p="DeactiveController.cs" t="Include" />
+            <e p="DespawnController.cs" t="Include" />
+            <e p="PoolIdentify.cs" t="Include" />
+            <e p="ScreenTransitionImageEffect.cs" t="Include" />
+            <e p="SingletonMono.cs" t="Include" />
+            <e p="SmartPool.cs" t="Include" />
+          </e>
+          <e p="Gameplay" t="Include">
+            <e p="CameraController.cs" t="Include" />
+            <e p="CinemaController.cs" t="Include" />
+            <e p="EnemyController.cs" t="Include" />
+            <e p="GridManager.cs" t="Include" />
+            <e p="LevelManagerGamePLay.cs" t="Include" />
+            <e p="Preloader.cs" t="Include" />
+            <e p="TutorialGamePlay.cs" t="Include" />
+          </e>
+          <e p="Manager" t="Include">
+            <e p="DataPlayer.cs" t="Include" />
+            <e p="EnemyData.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="LevelUpManager.cs" t="Include" />
+            <e p="ManagerLand.cs" t="Include" />
+            <e p="PlayerData.cs" t="Include" />
+            <e p="SaveManager.cs" t="Include" />
+          </e>
+          <e p="Speech" t="Include">
+            <e p="SpeechController.cs" t="Include" />
+            <e p="TeleType.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts 1" t="Include">
+          <e p="Coffee.UIParticle.asmdef" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="AsmdefEx.cs" t="Include" />
+            <e p="Coffee.UIParticle.Editor.asmdef" t="Include" />
+            <e p="UIParticleEditor.cs" t="Include" />
+            <e p="UIParticleMenu.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="UIAdditive.shader" t="Include" />
+          </e>
+          <e p="UIParticle.cs" t="Include" />
+          <e p="UIParticleOverlayCamera.cs" t="Include" />
+        </e>
+        <e p="Shader" t="Include">
+          <e p="ScreenTransitionImageEffect.shader" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="TopDownEngine" t="Include">
+          <e p="Common" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Characters" t="Include">
+                <e p="CharacterAbilities" t="Include">
+                  <e p="CharacterAbilityInspector.cs" t="Include" />
+                </e>
+                <e p="Core" t="Include">
+                  <e p="CharacterInspector.cs" t="Include" />
+                </e>
+              </e>
+              <e p="DefineSymbols" t="Include">
+                <e p="TopDownEngineDefineSymbols.cs" t="Include" />
+              </e>
+              <e p="MoreMountains.TopDownEngine.Editor.asmdef" t="Include" />
+              <e p="Welcome" t="Include">
+                <e p="DependencyInstaller.cs" t="Include" />
+                <e p="WelcomeWindow.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Achievements" t="Include">
+                <e p="AchievementRules.cs" t="Include" />
+              </e>
+              <e p="Camera" t="Include">
+                <e p="LevelLimits.cs" t="Include" />
+                <e p="MMCameraEvent.cs" t="Include" />
+              </e>
+              <e p="Characters" t="Include">
+                <e p="AI" t="Include">
+                  <e p="Advanced" t="Include">
+                    <e p="AIActionAimWeaponAtMovement.cs" t="Include" />
+                    <e p="AIActionChangeWeapon.cs" t="Include" />
+                    <e p="AIActionCrouchStart.cs" t="Include" />
+                    <e p="AIActionCrouchStop.cs" t="Include" />
+                    <e p="AIActionDoNothing.cs" t="Include" />
+                    <e p="AIActionMovePatrol2D.cs" t="Include" />
+                    <e p="AIActionMovePatrol3D.cs" t="Include" />
+                    <e p="AIActionMoveRandomly2D.cs" t="Include" />
+                    <e p="AIActionMoveRandomly3D.cs" t="Include" />
+                    <e p="AIActionMoveTowardsTarget2D.cs" t="Include" />
+                    <e p="AIActionMoveTowardsTarget3D.cs" t="Include" />
+                    <e p="AIActionPathfinderToPatrol3D.cs" t="Include" />
+                    <e p="AIActionPathfinderToTarget3D.cs" t="Include" />
+                    <e p="AIActionShoot2D.cs" t="Include" />
+                    <e p="AIActionShoot3D.cs" t="Include" />
+                    <e p="AIDecisionDetectTargetConeOfVision2D.cs" t="Include" />
+                    <e p="AIDecisionDetectTargetConeOfVision3D.cs" t="Include" />
+                    <e p="AIDecisionDetectTargetLine2D.cs" t="Include" />
+                    <e p="AIDecisionDetectTargetRadius2D.cs" t="Include" />
+                    <e p="AIDecisionDetectTargetRadius3D.cs" t="Include" />
+                    <e p="AIDecisionDistanceToTarget.cs" t="Include" />
+                    <e p="AIDecisionGrounded.cs" t="Include" />
+                    <e p="AIDecisionHealth.cs" t="Include" />
+                    <e p="AIDecisionHit.cs" t="Include" />
+                    <e p="AIDecisionLineOfSightToTarget2D.cs" t="Include" />
+                    <e p="AIDecisionLineOfSightToTarget3D.cs" t="Include" />
+                    <e p="AIDecisionNextFrame.cs" t="Include" />
+                    <e p="AIDecisionRandom.cs" t="Include" />
+                    <e p="AIDecisionTargetFacingAI2D.cs" t="Include" />
+                    <e p="AIDecisionTargetIsAlive.cs" t="Include" />
+                    <e p="AIDecisionTargetIsNull.cs" t="Include" />
+                    <e p="AIDecisionTimeInState.cs" t="Include" />
+                    <e p="AIDecisionTimeSinceStart.cs" t="Include" />
+                  </e>
+                  <e p="Automation" t="Include">
+                    <e p="MouseDrivenPathfinderAI3D.cs" t="Include" />
+                    <e p="PathedProjectile.cs" t="Include" />
+                    <e p="PathedProjectileSpawner.cs" t="Include" />
+                    <e p="TimedSpawner.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="CharacterAbilities" t="Include">
+                  <e p="CharacterAbility.cs" t="Include" />
+                  <e p="CharacterButtonActivation.cs" t="Include" />
+                  <e p="CharacterConeOfVision.cs" t="Include" />
+                  <e p="CharacterCrouch.cs" t="Include" />
+                  <e p="CharacterDash2D.cs" t="Include" />
+                  <e p="CharacterDash3D.cs" t="Include" />
+                  <e p="CharacterFallDownHoles2D.cs" t="Include" />
+                  <e p="CharacterGridMovement.cs" t="Include" />
+                  <e p="CharacterHandleSecondaryWeapon.cs" t="Include" />
+                  <e p="CharacterHandleWeapon.cs" t="Include" />
+                  <e p="CharacterInventory.cs" t="Include" />
+                  <e p="CharacterJump2D.cs" t="Include" />
+                  <e p="CharacterJump3D.cs" t="Include" />
+                  <e p="CharacterMovement.cs" t="Include" />
+                  <e p="CharacterOrientation2D.cs" t="Include" />
+                  <e p="CharacterOrientation3D.cs" t="Include" />
+                  <e p="CharacterPathfinder3D.cs" t="Include" />
+                  <e p="CharacterPause.cs" t="Include" />
+                  <e p="CharacterRagdollOnDeath.cs" t="Include" />
+                  <e p="CharacterRotation2D.cs" t="Include" />
+                  <e p="CharacterRun.cs" t="Include" />
+                  <e p="CharacterSwap.cs" t="Include" />
+                  <e p="CharacterSwitchModel.cs" t="Include" />
+                  <e p="CharacterTimeControl.cs" t="Include" />
+                </e>
+                <e p="Core" t="Include">
+                  <e p="Character.cs" t="Include" />
+                  <e p="CharacterEvents.cs" t="Include" />
+                  <e p="CharacterStates.cs" t="Include" />
+                  <e p="Health.cs" t="Include" />
+                  <e p="TopDownController.cs" t="Include" />
+                  <e p="TopDownController2D.cs" t="Include" />
+                  <e p="TopDownController3D.cs" t="Include" />
+                </e>
+                <e p="Damage" t="Include">
+                  <e p="DamageOnTouch.cs" t="Include" />
+                  <e p="KillZone.cs" t="Include" />
+                </e>
+                <e p="Health" t="Include">
+                  <e p="HealthAutoRefill.cs" t="Include" />
+                </e>
+                <e p="Weapons" t="Include">
+                  <e p="Bomb.cs" t="Include" />
+                  <e p="ComboWeapon.cs" t="Include" />
+                  <e p="MeleeWeapon.cs" t="Include" />
+                  <e p="Projectile.cs" t="Include" />
+                  <e p="ProjectileWeapon.cs" t="Include" />
+                  <e p="PusherProjectile3D.cs" t="Include" />
+                  <e p="ThrownObject.cs" t="Include" />
+                  <e p="Weapon.cs" t="Include" />
+                  <e p="WeaponAim.cs" t="Include" />
+                  <e p="WeaponAim2D.cs" t="Include" />
+                  <e p="WeaponAim3D.cs" t="Include" />
+                  <e p="WeaponAmmo.cs" t="Include" />
+                  <e p="WeaponIK.cs" t="Include" />
+                  <e p="WeaponLaserSight.cs" t="Include" />
+                  <e p="WeaponModel.cs" t="Include" />
+                  <e p="WeaponModelEnabler.cs" t="Include" />
+                  <e p="WeaponPreventShootingWhenCloseToWalls2D.cs" t="Include" />
+                  <e p="WeaponPreventShootingWhenCloseToWalls3D.cs" t="Include" />
+                  <e p="WeaponSpriteSortingOrderThreshold.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Environment" t="Include">
+                <e p="ButtonActivated.cs" t="Include" />
+                <e p="ButtonActivatedZone.cs" t="Include" />
+                <e p="ButtonActivator.cs" t="Include" />
+                <e p="CrouchZone.cs" t="Include" />
+                <e p="DashZone3D.cs" t="Include" />
+                <e p="FallingPlatform2D.cs" t="Include" />
+                <e p="FallingPlatform3D.cs" t="Include" />
+                <e p="KeyOperatedZone.cs" t="Include" />
+                <e p="MovingPlatform2D.cs" t="Include" />
+                <e p="MovingPlatform3D.cs" t="Include" />
+                <e p="SurfaceModifier.cs" t="Include" />
+                <e p="Switch.cs" t="Include" />
+                <e p="Teleporter.cs" t="Include" />
+                <e p="TimeZone.cs" t="Include" />
+              </e>
+              <e p="GUI" t="Include">
+                <e p="AmmoDisplay.cs" t="Include" />
+                <e p="ButtonPrompt.cs" t="Include" />
+                <e p="LevelSelector.cs" t="Include" />
+                <e p="MusicSwitch.cs" t="Include" />
+                <e p="PauseButton.cs" t="Include" />
+                <e p="SfxSwitch.cs" t="Include" />
+                <e p="StartScreen.cs" t="Include" />
+              </e>
+              <e p="Items" t="Include">
+                <e p="Coin.cs" t="Include" />
+                <e p="InventoryEngineChest.cs" t="Include" />
+                <e p="InventoryEngineHealth.cs" t="Include" />
+                <e p="InventoryEngineKey.cs" t="Include" />
+                <e p="InventoryPickableItem.cs" t="Include" />
+                <e p="InventoryWeapon.cs" t="Include" />
+                <e p="PickableAction.cs" t="Include" />
+                <e p="PickableItem.cs" t="Include" />
+                <e p="PickableWeapon.cs" t="Include" />
+              </e>
+              <e p="Managers" t="Include">
+                <e p="CharacterSwapManager.cs" t="Include" />
+                <e p="CharacterSwitchManager.cs" t="Include" />
+                <e p="GameManager.cs" t="Include" />
+                <e p="GridManager.cs" t="Include" />
+                <e p="GUIManager.cs" t="Include" />
+                <e p="InputManager.cs" t="Include" />
+                <e p="LevelManager.cs" t="Include" />
+                <e p="MultiplayerGUIManager.cs" t="Include" />
+                <e p="MultiplayerLevelManager.cs" t="Include" />
+                <e p="SoundManager.cs" t="Include" />
+              </e>
+              <e p="MoreMountains.TopDownEngine.asmdef" t="Include" />
+              <e p="Sound" t="Include">
+                <e p="BackgroundMusic.cs" t="Include" />
+                <e p="PersistentBackgroundMusic.cs" t="Include" />
+              </e>
+              <e p="Spawn" t="Include">
+                <e p="AutoRespawn.cs" t="Include" />
+                <e p="CheckPoint.cs" t="Include" />
+                <e p="FinishLevel.cs" t="Include" />
+                <e p="GoToLevelEntryPoint.cs" t="Include" />
+                <e p="Respawnable.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ScriptsCinemachine" t="Include">
+              <e p="Camera" t="Include">
+                <e p="CinemachineCameraController.cs" t="Include" />
+                <e p="MultiplayerCameraGroupTarget.cs" t="Include" />
+                <e p="MultiplayerSplitCameraRig.cs" t="Include" />
+              </e>
+              <e p="MoreMountains.TopDownEngine.Cinemachine.asmdef" t="Include" />
+            </e>
+            <e p="ScriptsPostProcessing" t="Include">
+              <e p="AutoBindAutoFocus.cs" t="Include" />
+              <e p="MoreMountains.TopDownEngine.PostProcessing.asmdef" t="Include" />
+            </e>
+          </e>
+          <e p="Demos" t="Include">
+            <e p="Explodudes" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="ExplodudesBomb.cs" t="Include" />
+                <e p="ExplodudesBombPicker.cs" t="Include" />
+                <e p="ExplodudesCrate.cs" t="Include" />
+                <e p="ExplodudesDecoration.cs" t="Include" />
+                <e p="ExplodudesMultiplayerLevelManager.cs" t="Include" />
+                <e p="ExplodudesStartScreen.cs" t="Include" />
+                <e p="ExplodudesWeapon.cs" t="Include" />
+                <e p="ExplodudesWinnerScreen.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Grasslands" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="GrasslandHUD.cs" t="Include" />
+                <e p="GrasslandsMultiplayerLevelManager.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Koala2D" t="Include">
+              <e p="Materials" t="Include">
+                <e p="MMSpriteHDR.shader" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="DungeonDoor.cs" t="Include" />
+                <e p="DungeonPortal.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Loft3D" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Door3D.cs" t="Include" />
+              </e>
+            </e>
+            <e p="MoreMountains.TopDownEngine.Demos.asmdef" t="Include" />
+          </e>
+          <e p="IMPORTANT-HOW-TO-INSTALL.txt" t="Include" />
+          <e p="license.txt" t="Include" />
+          <e p="readme.txt" t="Include" />
+          <e p="third-party-notices.txt" t="Include" />
+          <e p="ThirdParty" t="Include">
+            <e p="MoreMountains" t="Include">
+              <e p="InventoryEngine" t="Include">
+                <e p="Demos" t="Include">
+                  <e p="PixelRogue" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="ChangeLevel.cs" t="Include" />
+                      <e p="DemoCharacterInputManager.cs" t="Include" />
+                      <e p="InventoryDemoCharacter.cs" t="Include" />
+                      <e p="InventoryDemoGameManager.cs" t="Include" />
+                      <e p="Items" t="Include">
+                        <e p="ArmorItem.cs" t="Include" />
+                        <e p="BombItem.cs" t="Include" />
+                        <e p="HealthBonusItem.cs" t="Include" />
+                        <e p="WeaponItem.cs" t="Include" />
+                      </e>
+                      <e p="MoreMountains.InventoryEngine.Demos.asmdef" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="InventoryEngine" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="Core" t="Include">
+                      <e p="InventoryEditor.cs" t="Include" />
+                      <e p="InventoryEngineMenu.cs" t="Include" />
+                      <e p="InventoryItemEditor.cs" t="Include" />
+                      <e p="PickableInventoryItemEditor.cs" t="Include" />
+                    </e>
+                    <e p="DefineSymbols" t="Include">
+                      <e p="InventoryEngineDefineSymbols.cs" t="Include" />
+                    </e>
+                    <e p="GUI" t="Include">
+                      <e p="InventoryDisplayEditor.cs" t="Include" />
+                    </e>
+                    <e p="MoreMountains.InventoryEngine.Editor.asmdef" t="Include" />
+                  </e>
+                  <e p="Scripts" t="Include">
+                    <e p="Core" t="Include">
+                      <e p="Inventory.cs" t="Include" />
+                      <e p="InventoryEvents.cs" t="Include" />
+                      <e p="InventoryInputManager.cs" t="Include" />
+                      <e p="InventoryItem.cs" t="Include" />
+                      <e p="InventoryItemClasses.cs" t="Include" />
+                      <e p="ItemPicker.cs" t="Include" />
+                      <e p="SerializedInventory.cs" t="Include" />
+                    </e>
+                    <e p="GUI" t="Include">
+                      <e p="InventoryDetails.cs" t="Include" />
+                      <e p="InventoryDisplay.cs" t="Include" />
+                      <e p="InventoryDisplayGrid.cs" t="Include" />
+                      <e p="InventoryDisplayTitle.cs" t="Include" />
+                      <e p="InventoryHotbar.cs" t="Include" />
+                      <e p="InventorySelectionMarker.cs" t="Include" />
+                      <e p="InventorySlot.cs" t="Include" />
+                      <e p="InventorySoundPlayer.cs" t="Include" />
+                    </e>
+                    <e p="Items" t="Include">
+                      <e p="BaseItem.cs" t="Include" />
+                    </e>
+                    <e p="MoreMountains.InventoryEngine.asmdef" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="MMFeedbacks" t="Include">
+                <e p="Demos" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="DemoBall.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="Core" t="Include">
+                    <e p="AttributeDrawers.cs" t="Include" />
+                    <e p="MMFeedbacksEditor.cs" t="Include" />
+                    <e p="MMFeedbackStyling.cs" t="Include" />
+                  </e>
+                  <e p="DefineSymbols" t="Include">
+                    <e p="MMFeedbacksDefineSymbols.cs" t="Include" />
+                  </e>
+                  <e p="MoreMountains.Feedbacks.Editor.asmdef" t="Include" />
+                  <e p="Sequencing" t="Include">
+                    <e p="MMInputSequenceRecorderEditor.cs" t="Include" />
+                    <e p="MMSequencerEditor.cs" t="Include" />
+                  </e>
+                  <e p="Shakers" t="Include">
+                    <e p="MMWiggleEditor.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="MMFeedbacks" t="Include">
+                  <e p="Core" t="Include">
+                    <e p="MMFeedback.cs" t="Include" />
+                    <e p="MMFeedbacks.cs" t="Include" />
+                    <e p="MMFeedbacksHelpers.cs" t="Include" />
+                    <e p="MMFeedbackTiming.cs" t="Include" />
+                    <e p="ObjectPool" t="Include">
+                      <e p="MMMiniObjectPooler.cs" t="Include" />
+                      <e p="MMMiniPoolableObject.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Feedbacks" t="Include">
+                    <e p="MMFeedbackAnimation.cs" t="Include" />
+                    <e p="MMFeedbackAudioSource.cs" t="Include" />
+                    <e p="MMFeedbackCameraShake.cs" t="Include" />
+                    <e p="MMFeedbackCameraZoom.cs" t="Include" />
+                    <e p="MMFeedbackEnable.cs" t="Include" />
+                    <e p="MMFeedbackEvents.cs" t="Include" />
+                    <e p="MMFeedbackFlash.cs" t="Include" />
+                    <e p="MMFeedbackFlicker.cs" t="Include" />
+                    <e p="MMFeedbackFreezeFrame.cs" t="Include" />
+                    <e p="MMFeedbackInstantiateObject.cs" t="Include" />
+                    <e p="MMFeedbackLight.cs" t="Include" />
+                    <e p="MMFeedbackMaterial.cs" t="Include" />
+                    <e p="MMFeedbackParticles.cs" t="Include" />
+                    <e p="MMFeedbackParticlesInstantiation.cs" t="Include" />
+                    <e p="MMFeedbackPosition.cs" t="Include" />
+                    <e p="MMFeedbackRigidbody.cs" t="Include" />
+                    <e p="MMFeedbackRigidbody2D.cs" t="Include" />
+                    <e p="MMFeedbackRotation.cs" t="Include" />
+                    <e p="MMFeedbackScale.cs" t="Include" />
+                    <e p="MMFeedbackSetActive.cs" t="Include" />
+                    <e p="MMFeedbackSound.cs" t="Include" />
+                    <e p="MMFeedbackTimescaleModifier.cs" t="Include" />
+                    <e p="MMFeedbackWiggle.cs" t="Include" />
+                  </e>
+                  <e p="Feel" t="Include">
+                    <e p="MMBlink.cs" t="Include" />
+                  </e>
+                  <e p="MoreMountains.Feedbacks.asmdef" t="Include" />
+                  <e p="Sequencing" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="MMAudioSourceSequencer.cs" t="Include" />
+                      <e p="MMFeedbacksSequencer.cs" t="Include" />
+                      <e p="MMInputSequenceRecorder.cs" t="Include" />
+                      <e p="MMSequence.cs" t="Include" />
+                      <e p="MMSequencer.cs" t="Include" />
+                      <e p="MMSoundSequencer.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Shakers" t="Include">
+                    <e p="MMCameraShaker.cs" t="Include" />
+                    <e p="MMCameraZoom.cs" t="Include" />
+                    <e p="MMFlash.cs" t="Include" />
+                    <e p="MMTimeManager.cs" t="Include" />
+                    <e p="MMWiggle.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="MMFeedbacksForThirdParty" t="Include">
+                  <e p="Cinemachine" t="Include">
+                    <e p="Feedbacks" t="Include">
+                      <e p="MMFeedbackCinemachineImpulse.cs" t="Include" />
+                    </e>
+                    <e p="MoreMountains.Feedbacks.Cinemachine.asmdef" t="Include" />
+                    <e p="Shakers" t="Include">
+                      <e p="MMCinemachineCameraShaker.cs" t="Include" />
+                      <e p="MMCinemachineZoom.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="MMTools" t="Include">
+                    <e p="MMFeedbackBlink.cs" t="Include" />
+                    <e p="MMFeedbackFade.cs" t="Include" />
+                    <e p="MMFeedbackFloatController.cs" t="Include" />
+                    <e p="MMFeedbackPPMovingFilter.cs" t="Include" />
+                    <e p="MMFeedbackShaderController.cs" t="Include" />
+                    <e p="MoreMountains.Feedbacks.MMTools.asmdef" t="Include" />
+                  </e>
+                  <e p="PostProcessing" t="Include">
+                    <e p="Feedbacks" t="Include">
+                      <e p="MMFeedbackBloom.cs" t="Include" />
+                      <e p="MMFeedbackChromaticAberration.cs" t="Include" />
+                      <e p="MMFeedbackColorGrading.cs" t="Include" />
+                      <e p="MMFeedbackDepthOfField.cs" t="Include" />
+                      <e p="MMFeedbackLensDistortion.cs" t="Include" />
+                      <e p="MMFeedbackVignette.cs" t="Include" />
+                    </e>
+                    <e p="Helpers" t="Include">
+                      <e p="MMGlobalPostProcessingVolumeAutoBlend.cs" t="Include" />
+                    </e>
+                    <e p="MoreMountains.Feedbacks.PostProcessing.asmdef" t="Include" />
+                    <e p="Shakers" t="Include">
+                      <e p="MMAutoFocus.cs" t="Include" />
+                      <e p="MMBloomShaker.cs" t="Include" />
+                      <e p="MMChromaticAberrationShaker.cs" t="Include" />
+                      <e p="MMColorGradingShaker.cs" t="Include" />
+                      <e p="MMDepthOfFieldShaker.cs" t="Include" />
+                      <e p="MMLensDistortionShaker.cs" t="Include" />
+                      <e p="MMVignetteShaker.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+              <e p="MMInterface" t="Include">
+                <e p="Common" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="MMCarousel.cs" t="Include" />
+                    <e p="MMCheckbox.cs" t="Include" />
+                    <e p="MMPopup.cs" t="Include" />
+                    <e p="MMRadioButton.cs" t="Include" />
+                    <e p="MMScrollviewButton.cs" t="Include" />
+                    <e p="MMSpriteReplace.cs" t="Include" />
+                    <e p="MMSpriteReplaceCycle.cs" t="Include" />
+                    <e p="MMSwitch.cs" t="Include" />
+                    <e p="MMUIFollowMouse.cs" t="Include" />
+                    <e p="MoreMountains.Interface.asmdef" t="Include" />
+                  </e>
+                  <e p="Shaders" t="Include">
+                    <e p="GreyScale.shader" t="Include" />
+                    <e p="HorizontalGradient.shader" t="Include" />
+                    <e p="VerticalGradient.shader" t="Include" />
+                  </e>
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="DefineSymbols" t="Include">
+                    <e p="MMInterfaceDefineSymbols.cs" t="Include" />
+                  </e>
+                  <e p="MoreMountains.Interface.Editor.asmdef" t="Include" />
+                </e>
+                <e p="Styles" t="Include">
+                  <e p="Mini" t="Include">
+                    <e p="Fonts" t="Include">
+                      <e p="Lato" t="Include">
+                        <e p="OFL.txt" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                </e>
+              </e>
+              <e p="MMTools" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="Achievements" t="Include">
+                    <e p="MMAchievementListInspector.cs" t="Include" />
+                    <e p="MMAchievementMenu.cs" t="Include" />
+                  </e>
+                  <e p="Activation" t="Include">
+                    <e p="MMTriggerAndCollisionEditor.cs" t="Include" />
+                  </e>
+                  <e p="AI" t="Include">
+                    <e p="AIActionInspectorDrawer.cs" t="Include" />
+                    <e p="AIBrainEditor.cs" t="Include" />
+                    <e p="AITransitionInspectorDrawer.cs" t="Include" />
+                  </e>
+                  <e p="Attributes" t="Include">
+                    <e p="MMBackgroundColorAttributeDrawer.cs" t="Include" />
+                    <e p="MMColorAttributeDrawer.cs" t="Include" />
+                    <e p="MMConditionAttributeDrawer.cs" t="Include" />
+                    <e p="MMDropdownAttributeDrawer.cs" t="Include" />
+                    <e p="MMEnumConditionAttributeDrawer.cs" t="Include" />
+                    <e p="MMHiddenAttributeDrawer.cs" t="Include" />
+                    <e p="MMInformationDrawer.cs" t="Include" />
+                    <e p="MMMenuHelp.cs" t="Include" />
+                    <e p="MMReadOnlyAttributeDrawer.cs" t="Include" />
+                    <e p="MMVectorAttributeDrawer.cs" t="Include" />
+                  </e>
+                  <e p="Audio" t="Include">
+                    <e p="AudioAnalyzer" t="Include">
+                      <e p="MMAudioAnalyzerEditor.cs" t="Include" />
+                    </e>
+                    <e p="Playlist" t="Include">
+                      <e p="MMPlaylistEditor.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Camera" t="Include">
+                    <e p="MMAspectRatioSafeZonesEditor.cs" t="Include" />
+                  </e>
+                  <e p="Curves" t="Include">
+                    <e p="MMPlotterEditor.cs" t="Include" />
+                  </e>
+                  <e p="DefineSymbols" t="Include">
+                    <e p="MMToolsDefineSymbols.cs" t="Include" />
+                  </e>
+                  <e p="GUI" t="Include">
+                    <e p="MMHealthBarEditor.cs" t="Include" />
+                  </e>
+                  <e p="Icons" t="Include">
+                    <e p="ManagerIconEditor.cs" t="Include" />
+                  </e>
+                  <e p="Maintenance" t="Include">
+                    <e p="MMCleanEmptyFolders.cs" t="Include" />
+                    <e p="MMCleanupMissingScripts.cs" t="Include" />
+                    <e p="MMFindMissingScriptsRecursively.cs" t="Include" />
+                    <e p="MMFindPrefabsByMono.cs" t="Include" />
+                    <e p="MMGroupSelection.cs" t="Include" />
+                  </e>
+                  <e p="MoreMountains.Tools.Editor.asmdef" t="Include" />
+                  <e p="Movement" t="Include">
+                    <e p="MMPathMovement" t="Include">
+                      <e p="MMPathEditor.cs" t="Include" />
+                      <e p="MMPathMovementEditor.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="ObjectBounds" t="Include">
+                    <e p="ObjectBoundsEditor.cs" t="Include" />
+                  </e>
+                  <e p="Particles" t="Include">
+                    <e p="MMTrailRendererSortingLayerEditor.cs" t="Include" />
+                  </e>
+                  <e p="PropertyControllers" t="Include">
+                    <e p="FloatControllerEditor.cs" t="Include" />
+                  </e>
+                  <e p="ReorderableList" t="Include">
+                    <e p="ReorderableDrawer.cs" t="Include" />
+                    <e p="ReorderableList.cs" t="Include" />
+                  </e>
+                  <e p="Utilities" t="Include">
+                    <e p="MMScreenshotEditor.cs" t="Include" />
+                  </e>
+                  <e p="Vision" t="Include">
+                    <e p="MMConeOfVision2DInspector.cs" t="Include" />
+                    <e p="MMConeOfVisionInspector.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Tools" t="Include">
+                  <e p="Achievements" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="MMAchievement.cs" t="Include" />
+                      <e p="MMAchievementDisplayItem.cs" t="Include" />
+                      <e p="MMAchievementEvent.cs" t="Include" />
+                      <e p="MMAchievementList.cs" t="Include" />
+                      <e p="MMAchievementManager.cs" t="Include" />
+                      <e p="MMAchievementRules.cs" t="Include" />
+                      <e p="SerializedMMAchievementManager.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Activation" t="Include">
+                    <e p="MMActivationOnStart.cs" t="Include" />
+                    <e p="MMConditionalActivation.cs" t="Include" />
+                    <e p="MMTimedActivation.cs" t="Include" />
+                    <e p="MMTimedDestruction.cs" t="Include" />
+                    <e p="MMTriggerAndCollision.cs" t="Include" />
+                  </e>
+                  <e p="AI" t="Include">
+                    <e p="AIAction.cs" t="Include" />
+                    <e p="AIBrain.cs" t="Include" />
+                    <e p="AIDecision.cs" t="Include" />
+                    <e p="AIState.cs" t="Include" />
+                    <e p="AITransition.cs" t="Include" />
+                  </e>
+                  <e p="Animation" t="Include">
+                    <e p="MMAnimationModifier.cs" t="Include" />
+                    <e p="MMOffsetAnimation.cs" t="Include" />
+                    <e p="MMRagdoller.cs" t="Include" />
+                    <e p="MMRagdollerIgnore.cs" t="Include" />
+                    <e p="MMStopMotionAnimation.cs" t="Include" />
+                  </e>
+                  <e p="Attributes" t="Include">
+                    <e p="MMBackgroundColorAttribute.cs" t="Include" />
+                    <e p="MMColorAttribute.cs" t="Include" />
+                    <e p="MMConditionAttribute.cs" t="Include" />
+                    <e p="MMDropdownAttribute.cs" t="Include" />
+                    <e p="MMEnumConditionAttribute.cs" t="Include" />
+                    <e p="MMExecutionOrderAttribute.cs" t="Include" />
+                    <e p="MMHiddenAttribute.cs" t="Include" />
+                    <e p="MMHiddenPropertiesAttribute.cs" t="Include" />
+                    <e p="MMInformationAttribute.cs" t="Include" />
+                    <e p="MMInspectorButtonAttribute.cs" t="Include" />
+                    <e p="MMReadOnlyAttribute.cs" t="Include" />
+                    <e p="MMReadOnlyWhenPlayingAttribute.cs" t="Include" />
+                    <e p="MMVectorAttribute.cs" t="Include" />
+                  </e>
+                  <e p="Audio" t="Include">
+                    <e p="AudioAnalyzer" t="Include">
+                      <e p="MMAudioAnalyzer.cs" t="Include" />
+                    </e>
+                    <e p="Playlist" t="Include">
+                      <e p="MMPlaylist.cs" t="Include" />
+                      <e p="MMPlaylistRemote.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Camera" t="Include">
+                    <e p="MMAspectRatioSafeZones.cs" t="Include" />
+                    <e p="MMBillboard.cs" t="Include" />
+                    <e p="MMCameraAspectRatio.cs" t="Include" />
+                    <e p="MMOrbitalCamera.cs" t="Include" />
+                    <e p="MMPostProcessingMovingFilter.cs" t="Include" />
+                  </e>
+                  <e p="Events" t="Include">
+                    <e p="MMEventManager.cs" t="Include" />
+                  </e>
+                  <e p="Gamefeel" t="Include">
+                    <e p="MMSquashAndStretch.cs" t="Include" />
+                  </e>
+                  <e p="Gameplay" t="Include">
+                    <e p="MMAim.cs" t="Include" />
+                  </e>
+                  <e p="GUI" t="Include">
+                    <e p="MMCursorVisible.cs" t="Include" />
+                    <e p="MMFader.cs" t="Include" />
+                    <e p="MMFaderRound.cs" t="Include" />
+                    <e p="MMGetFocusOnEnable.cs" t="Include" />
+                    <e p="MMHealthBar.cs" t="Include" />
+                    <e p="MMProgressBar.cs" t="Include" />
+                    <e p="MMProgressBarDemoAuto.cs" t="Include" />
+                    <e p="MMPSBToUIConverter.cs" t="Include" />
+                    <e p="MMRadialProgressBar.cs" t="Include" />
+                    <e p="MMRaycastTarget.cs" t="Include" />
+                    <e p="MMSelectionBase.cs" t="Include" />
+                    <e p="SelectionBase.cs" t="Include" />
+                  </e>
+                  <e p="Gyroscope" t="Include">
+                    <e p="MMGyroscope.cs" t="Include" />
+                  </e>
+                  <e p="Icons" t="Include">
+                    <e p="MMSceneViewIcon.cs" t="Include" />
+                  </e>
+                  <e p="MMControls" t="Include">
+                    <e p="MMControlsTestInputManager.cs" t="Include" />
+                    <e p="MMSwipeZone.cs" t="Include" />
+                    <e p="MMTouchAxis.cs" t="Include" />
+                    <e p="MMTouchButton.cs" t="Include" />
+                    <e p="MMTouchControls.cs" t="Include" />
+                    <e p="MMTouchDynamicJoystick.cs" t="Include" />
+                    <e p="MMTouchJoystick.cs" t="Include" />
+                  </e>
+                  <e p="MMExtensions" t="Include">
+                    <e p="MMAnimatorExtensions.cs" t="Include" />
+                    <e p="MMArrayExtensions.cs" t="Include" />
+                    <e p="MMBoundsExtensions.cs" t="Include" />
+                    <e p="MMCameraExtensions.cs" t="Include" />
+                    <e p="MMDictionaryExtensions.cs" t="Include" />
+                    <e p="MMFloatExtensions.cs" t="Include" />
+                    <e p="MMGameObjectExtensions.cs" t="Include" />
+                    <e p="MMLayermaskExtensions.cs" t="Include" />
+                    <e p="MMListExtensions.cs" t="Include" />
+                    <e p="MMRectExtensions.cs" t="Include" />
+                    <e p="MMRendererExtensions.cs" t="Include" />
+                    <e p="MMScrollRectExtensions.cs" t="Include" />
+                    <e p="MMTransformExtensions.cs" t="Include" />
+                    <e p="MMVector2Extensions.cs" t="Include" />
+                    <e p="MMVector3Extensions.cs" t="Include" />
+                  </e>
+                  <e p="MMHelpers" t="Include">
+                    <e p="MMArray.cs" t="Include" />
+                    <e p="MMColors.cs" t="Include" />
+                    <e p="MMConsole.cs" t="Include" />
+                    <e p="MMCoroutine.cs" t="Include" />
+                    <e p="MMDebug.cs" t="Include" />
+                    <e p="MMFade.cs" t="Include" />
+                    <e p="MMGUI.cs" t="Include" />
+                    <e p="MMHelpers.cs" t="Include" />
+                    <e p="MMImage.cs" t="Include" />
+                    <e p="MMInput.cs" t="Include" />
+                    <e p="MMLayers.cs" t="Include" />
+                    <e p="MMMaths.cs" t="Include" />
+                    <e p="MMMovement.cs" t="Include" />
+                    <e p="MMShufflebag.cs" t="Include" />
+                    <e p="MMTime.cs" t="Include" />
+                  </e>
+                  <e p="MMSaveLoad" t="Include">
+                    <e p="MMSaveLoadManager.cs" t="Include" />
+                    <e p="MMSaveLoadManagerMethodBinary.cs" t="Include" />
+                    <e p="MMSaveLoadManagerMethodBinaryEncrypted.cs" t="Include" />
+                    <e p="MMSaveLoadManagerMethodJson.cs" t="Include" />
+                    <e p="MMSaveLoadManagerMethodJsonEncrypted.cs" t="Include" />
+                    <e p="MMSaveLoadManagerMethods.cs" t="Include" />
+                    <e p="MMSaveLoadTester.cs" t="Include" />
+                  </e>
+                  <e p="MMSingletons" t="Include">
+                    <e p="MMPersistentHumbleSingleton.cs" t="Include" />
+                    <e p="MMPersistentSingleton.cs" t="Include" />
+                    <e p="MMSingleton.cs" t="Include" />
+                  </e>
+                  <e p="MMTween" t="Include">
+                    <e p="Demo" t="Include">
+                      <e p="Fonts" t="Include">
+                        <e p="Lato" t="Include">
+                          <e p="OFL.txt" t="Include" />
+                        </e>
+                      </e>
+                      <e p="Plotter" t="Include">
+                        <e p="MMPlotter.cs" t="Include" />
+                        <e p="MMPlotterAxis.cs" t="Include" />
+                        <e p="MMPlotterGenerator.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="MMAnimationCurveGenerator.cs" t="Include" />
+                    <e p="MMSignal.cs" t="Include" />
+                    <e p="MMTween.cs" t="Include" />
+                  </e>
+                  <e p="MoreMountains.Tools.asmdef" t="Include" />
+                  <e p="Movement" t="Include">
+                    <e p="MMFollowTarget.cs" t="Include" />
+                    <e p="MMPathMovement" t="Include">
+                      <e p="MMPath.cs" t="Include" />
+                      <e p="MMPathMovement.cs" t="Include" />
+                    </e>
+                    <e p="MMPreventPassingThrough.cs" t="Include" />
+                    <e p="MMPreventPassingThrough2D.cs" t="Include" />
+                    <e p="MMPreventPassingThrough3D.cs" t="Include" />
+                    <e p="MMStayInPlace.cs" t="Include" />
+                  </e>
+                  <e p="ObjectBounds" t="Include">
+                    <e p="MMObjectBounds.cs" t="Include" />
+                  </e>
+                  <e p="ObjectPool" t="Include">
+                    <e p="MMMultipleObjectPooler.cs" t="Include" />
+                    <e p="MMObjectPool.cs" t="Include" />
+                    <e p="MMObjectPooler.cs" t="Include" />
+                    <e p="MMPoolableObject.cs" t="Include" />
+                    <e p="MMSimpleObjectPooler.cs" t="Include" />
+                  </e>
+                  <e p="Particles" t="Include">
+                    <e p="MMAutoDestroyParticleSystem.cs" t="Include" />
+                    <e p="MMChangeFogColor.cs" t="Include" />
+                    <e p="MMDelayParticles.cs" t="Include" />
+                    <e p="MMTrailRendererSortingLayer.cs" t="Include" />
+                    <e p="MMVisibleParticle.cs" t="Include" />
+                  </e>
+                  <e p="Performance" t="Include">
+                    <e p="MMFPSCounter.cs" t="Include" />
+                    <e p="MMFPSUnlock.cs" t="Include" />
+                    <e p="MMSpeedTest.cs" t="Include" />
+                  </e>
+                  <e p="PropertyControllers" t="Include">
+                    <e p="FloatController.cs" t="Include" />
+                    <e p="LightController.cs" t="Include" />
+                    <e p="ShaderController.cs" t="Include" />
+                    <e p="TransformController.cs" t="Include" />
+                  </e>
+                  <e p="ReorderableList" t="Include">
+                    <e p="Attributes" t="Include">
+                      <e p="ReorderableAttribute.cs" t="Include" />
+                    </e>
+                    <e p="reorderable-list-licence.txt" t="Include" />
+                    <e p="ReorderableArray.cs" t="Include" />
+                  </e>
+                  <e p="RigidbodyInterface" t="Include">
+                    <e p="MMRigidbodyInterface.cs" t="Include" />
+                  </e>
+                  <e p="SceneLoading" t="Include">
+                    <e p="LoadingSceneManager.cs" t="Include" />
+                    <e p="MMLoadScene.cs" t="Include" />
+                  </e>
+                  <e p="Shaders" t="Include">
+                    <e p="MMAdvancedToon.shader" t="Include" />
+                    <e p="MMBoilingLine.shader" t="Include" />
+                    <e p="MMControlledEmission.shader" t="Include" />
+                    <e p="MMRipple.shader" t="Include" />
+                    <e p="MMStandardEmission.shader" t="Include" />
+                    <e p="MMStochastic.shader" t="Include" />
+                    <e p="MMToon.shader" t="Include" />
+                    <e p="MMZTestAlways.shader" t="Include" />
+                    <e p="MMZTestAlwaysAdditive.shader" t="Include" />
+                  </e>
+                  <e p="Sprites" t="Include">
+                    <e p="BezierLineRenderer" t="Include">
+                      <e p="MMBezierLineRenderer.cs" t="Include" />
+                    </e>
+                    <e p="MMAutoOrderInLayer.cs" t="Include" />
+                  </e>
+                  <e p="StateMachine" t="Include">
+                    <e p="MMStateMachine.cs" t="Include" />
+                  </e>
+                  <e p="Tilemaps" t="Include">
+                    <e p="MMTilemapBoolean.cs" t="Include" />
+                    <e p="MMTilemapShadow.cs" t="Include" />
+                  </e>
+                  <e p="Time" t="Include">
+                    <e p="MMCooldown.cs" t="Include" />
+                    <e p="MMCountdown.cs" t="Include" />
+                  </e>
+                  <e p="Utilities" t="Include">
+                    <e p="MMDebugController.cs" t="Include" />
+                    <e p="MMOpenURL.cs" t="Include" />
+                    <e p="MMSceneRestarter.cs" t="Include" />
+                    <e p="MMScreenshot.cs" t="Include" />
+                  </e>
+                  <e p="VFX" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="PanningTexture.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Vision" t="Include">
+                    <e p="MMConeOfLight.shader" t="Include" />
+                    <e p="MMConeOfVision.cs" t="Include" />
+                    <e p="MMConeOfVision2D.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="ToolsForCinemachine" t="Include">
+                  <e p="Camera" t="Include">
+                    <e p="MMGyroParallax.cs" t="Include" />
+                  </e>
+                  <e p="MoreMountains.Tools.Cinemachine.asmdef" t="Include" />
+                </e>
+                <e p="ToolsForMMFeedbacks" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="MMAutoRotateEditor.cs" t="Include" />
+                    <e p="MoreMountains.Tools.Feedbacks.Editor.asmdef" t="Include" />
+                  </e>
+                  <e p="Tools" t="Include">
+                    <e p="Achievements" t="Include">
+                      <e p="MMAchievementDisplayer.cs" t="Include" />
+                    </e>
+                    <e p="Camera" t="Include">
+                      <e p="MMGhostCamera.cs" t="Include" />
+                    </e>
+                    <e p="MoreMountains.Tools.Feedbacks.asmdef" t="Include" />
+                    <e p="Movement" t="Include">
+                      <e p="MMAutoRotate.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="NavMeshComponents" t="Include">
+              <e p="Editor" t="Include">
+                <e p="NavMeshAssetManager.cs" t="Include" />
+                <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+                <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+                <e p="NavMeshLinkEditor.cs" t="Include" />
+                <e p="NavMeshModifierEditor.cs" t="Include" />
+                <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+                <e p="NavMeshSurfaceEditor.cs" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="NavMeshComponents.asmdef" t="Include" />
+                <e p="NavMeshLink.cs" t="Include" />
+                <e p="NavMeshModifier.cs" t="Include" />
+                <e p="NavMeshModifierVolume.cs" t="Include" />
+                <e p="NavMeshSurface.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Tilemap" t="Include">
+              <e p="2dExtras" t="Include">
+                <e p="GridInformation" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="GridInformation.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Tiles" t="Include">
+                  <e p="Animated Tile" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="AnimatedTile.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Pipeline Tile" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="PipelineTile.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Random Tile" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="RandomTile.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Rule Override Tile" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="Editor" t="Include">
+                        <e p="RuleOverrideTileEditor.cs" t="Include" />
+                      </e>
+                      <e p="RuleOverrideTile.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Rule Tile" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="Editor" t="Include">
+                        <e p="CustomRuleTileMenu.cs" t="Include" />
+                        <e p="RuleTileEditor.cs" t="Include" />
+                      </e>
+                      <e p="RuleTile.cs" t="Include" />
+                    </e>
+                    <e p="ScriptTemplates" t="Include">
+                      <e p="NewCustomRuleTile.cs.txt" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Terrain Tile" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="TerrainTile.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Weighted Random Tile" t="Include">
+                    <e p="WeightedRandomTile.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="unity3d.txt" t="Include" />
+      </e>
+      <e p="Coffee.UIParticle.csproj" t="IncludeRecursive" />
+      <e p="Coffee.UIParticle.Editor.csproj" t="IncludeRecursive" />
+      <e p="GambitLand.sln" t="IncludeFlat" />
+      <e p="MoreMountains.Feedbacks.Cinemachine.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.Feedbacks.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.Feedbacks.Editor.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.Feedbacks.MMTools.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.Feedbacks.PostProcessing.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.Interface.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.Interface.Editor.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.InventoryEngine.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.InventoryEngine.Demos.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.InventoryEngine.Editor.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.Tools.Cinemachine.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.Tools.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.Tools.Editor.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.Tools.Feedbacks.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.Tools.Feedbacks.Editor.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.TopDownEngine.Cinemachine.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.TopDownEngine.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.TopDownEngine.Demos.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.TopDownEngine.Editor.csproj" t="IncludeRecursive" />
+      <e p="MoreMountains.TopDownEngine.PostProcessing.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

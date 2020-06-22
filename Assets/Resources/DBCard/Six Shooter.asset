@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28ecdb3c1c768874cbca0a50be95c50d, type: 3}
+  m_Name: Six Shooter
+  m_EditorClassIdentifier: 
+  cardType: 0
+  name: Six Shooter
+  des: Do  <sprite name="attack"> <sprite name="dice"> damage
+  loopMax: 3
+  max: 0
+  min: 0
+  score: 0
+  effect: 0
+  value: 0
+  useDiceValueEffect: 0
+  valueWeakon: 0
+  valueAttack: 0
+  scaleDamageAttack: 1
+  evenodd: 0
+  dicenumber: 6
+  conditionEffect: 0
+  isDealDamage: 1

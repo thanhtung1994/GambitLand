@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34a71533501203047896563be524e74f, type: 3}
+  m_Name: Pirate2
+  m_EditorClassIdentifier: 
+  name: Pirate2
+  level: 1
+  maxhealth: 12
+  dice: 2
+  cards:
+  - nameCard: Poison Slingshot
+    numberType: 0
+    level: 1
+  - nameCard: Venus Fly Trap
+    numberType: 0
+    level: 1
+  isBoos: 0
+  rare: 0
+  typeElement: 0

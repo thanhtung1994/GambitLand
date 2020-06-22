@@ -1,0 +1,4699 @@
+fileFormatVersion: 2
+guid: 8ff1e5b6744f6c64899c30fb4989667f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7537500777718401593
+    second: map m archers ds_0
+  - first:
+      213: 463235801565850632
+    second: map m archers ds_1
+  - first:
+      213: -4052367171317498765
+    second: map m archers ds_2
+  - first:
+      213: 6881489231155104071
+    second: map m archers ds_3
+  - first:
+      213: 7791573643111579325
+    second: map m archers ds_4
+  - first:
+      213: -1493567915425247306
+    second: map m archers ds_5
+  - first:
+      213: -7646343876066180333
+    second: map m archers ds_6
+  - first:
+      213: -6223363004214408636
+    second: map m archers ds_7
+  - first:
+      213: -2242440215048179941
+    second: map m archers ds_8
+  - first:
+      213: -7699973168610041840
+    second: map m archers ds_9
+  - first:
+      213: -4252757656338730237
+    second: map m archers ds_10
+  - first:
+      213: -3511707002538583381
+    second: map m archers ds_11
+  - first:
+      213: 5284906362808779249
+    second: map m archers ds_12
+  - first:
+      213: 6025791823573021567
+    second: map m archers ds_13
+  - first:
+      213: -3219327471476432228
+    second: map m archers ds_14
+  - first:
+      213: -103991071394163448
+    second: map m archers ds_15
+  - first:
+      213: 7405079760135055388
+    second: map m archers ds_16
+  - first:
+      213: -2834913578955824410
+    second: map m archers ds_17
+  - first:
+      213: -2713089939472250281
+    second: map m archers ds_18
+  - first:
+      213: 5290491160265700759
+    second: map m archers ds_19
+  - first:
+      213: -930418405239941567
+    second: map m archers ds_20
+  - first:
+      213: -7933776823081129902
+    second: map m archers ds_21
+  - first:
+      213: -748381066889674345
+    second: map m archers ds_22
+  - first:
+      213: -3609062756622386007
+    second: map m archers ds_23
+  - first:
+      213: 450729168369260656
+    second: map m archers ds_24
+  - first:
+      213: 9189725012474295679
+    second: map m archers ds_25
+  - first:
+      213: 6557612337371017671
+    second: map m archers ds_26
+  - first:
+      213: -3730263868943116033
+    second: map m archers ds_27
+  - first:
+      213: -5479322584855911079
+    second: map m archers ds_28
+  - first:
+      213: -5581806376866613531
+    second: map m archers ds_29
+  - first:
+      213: 7859547475496597024
+    second: map m archers ds_30
+  - first:
+      213: 7428635188720952014
+    second: map m archers ds_31
+  - first:
+      213: -5881687444944307291
+    second: map m archers ds_32
+  - first:
+      213: 603458057814939198
+    second: map m archers ds_33
+  - first:
+      213: -6204607288317830010
+    second: map m archers ds_34
+  - first:
+      213: -4739028760443217100
+    second: map m archers ds_35
+  - first:
+      213: -7947247102997809114
+    second: map m archers ds_36
+  - first:
+      213: -230558827224347679
+    second: map m archers ds_37
+  - first:
+      213: 1692545839773826085
+    second: map m archers ds_38
+  - first:
+      213: -4518476352448356579
+    second: map m archers ds_39
+  - first:
+      213: 8232603871627739854
+    second: map m archers ds_40
+  - first:
+      213: -1336121336203957697
+    second: map m archers ds_41
+  - first:
+      213: 4397397870023135757
+    second: map m archers ds_42
+  - first:
+      213: -6176857234794691077
+    second: map m archers ds_43
+  - first:
+      213: -2776786077400651101
+    second: map m archers ds_44
+  - first:
+      213: 1686413570350888178
+    second: map m archers ds_45
+  - first:
+      213: 1441302092131650636
+    second: map m archers ds_46
+  - first:
+      213: 3275617218342855250
+    second: map m archers ds_47
+  - first:
+      213: -2843995834304843728
+    second: map m archers ds_48
+  - first:
+      213: 6206717421182601913
+    second: map m archers ds_49
+  - first:
+      213: 6628796420303173365
+    second: map m archers ds_50
+  - first:
+      213: -5577212556849844519
+    second: map m archers ds_51
+  - first:
+      213: -2351901145391692355
+    second: map m archers ds_52
+  - first:
+      213: 3981677845463022194
+    second: map m archers ds_53
+  - first:
+      213: 7837668020239166562
+    second: map m archers ds_54
+  - first:
+      213: -3159605605844105937
+    second: map m archers ds_55
+  - first:
+      213: -4806229192506962052
+    second: map m archers ds_56
+  - first:
+      213: 6961372650375175021
+    second: map m archers ds_57
+  - first:
+      213: -9065178604551836600
+    second: map m archers ds_58
+  - first:
+      213: -2923994276443674070
+    second: map m archers ds_59
+  - first:
+      213: 1197494263776482929
+    second: map m archers ds_60
+  - first:
+      213: 5038435054331357325
+    second: map m archers ds_61
+  - first:
+      213: 3166964069404629536
+    second: map m archers ds_62
+  - first:
+      213: -4883829666633254815
+    second: map m archers ds_63
+  - first:
+      213: 7867184327964817510
+    second: map m archers ds_64
+  - first:
+      213: -4786949057202150867
+    second: map m archers ds_65
+  - first:
+      213: 1890647978508323081
+    second: map m archers ds_66
+  - first:
+      213: -6826778523376825358
+    second: map m archers ds_67
+  - first:
+      213: 1252681148926547785
+    second: map m archers ds_68
+  - first:
+      213: -2717172883752874083
+    second: map m archers ds_69
+  - first:
+      213: -6558637660903055177
+    second: map m archers ds_70
+  - first:
+      213: -4130874733702712656
+    second: map m archers ds_71
+  - first:
+      213: 2034590982203408255
+    second: map m archers ds_72
+  - first:
+      213: -3005131315492695804
+    second: map m archers ds_73
+  - first:
+      213: 7433015021876853891
+    second: map m archers ds_74
+  - first:
+      213: -2414676945651676001
+    second: map m archers ds_75
+  - first:
+      213: 4020437763906881251
+    second: map m archers ds_76
+  - first:
+      213: -8610805272563212085
+    second: map m archers ds_77
+  - first:
+      213: 4915323228610732023
+    second: map m archers ds_78
+  - first:
+      213: 273998402149619253
+    second: map m archers ds_79
+  - first:
+      213: 8191991186625187528
+    second: map m archers ds_80
+  - first:
+      213: 989670364794976084
+    second: map m archers ds_81
+  - first:
+      213: -3532805960103359020
+    second: map m archers ds_82
+  - first:
+      213: 9181323858071344687
+    second: map m archers ds_83
+  - first:
+      213: 8847071726620437138
+    second: map m archers ds_84
+  - first:
+      213: -4485969546010526492
+    second: map m archers ds_85
+  - first:
+      213: -5649153389812225327
+    second: map m archers ds_86
+  - first:
+      213: -1050615691537468065
+    second: map m archers ds_87
+  - first:
+      213: -2049275210164400186
+    second: map m archers ds_88
+  - first:
+      213: 7361080094495426848
+    second: map m archers ds_89
+  - first:
+      213: -4818238049167559031
+    second: map m archers ds_90
+  - first:
+      213: -5251418546552597562
+    second: map m archers ds_91
+  - first:
+      213: 5712079096093831638
+    second: map m archers ds_92
+  - first:
+      213: 5709864596456811616
+    second: map m archers ds_93
+  - first:
+      213: -3653043395805090070
+    second: map m archers ds_94
+  - first:
+      213: 7070677796119946553
+    second: map m archers ds_95
+  - first:
+      213: 4639751732457532817
+    second: map m archers ds_96
+  - first:
+      213: 5366294504900993338
+    second: map m archers ds_97
+  - first:
+      213: 5120903988219652683
+    second: map m archers ds_98
+  - first:
+      213: 5343290509194375311
+    second: map m archers ds_99
+  - first:
+      213: 5590543078229944270
+    second: map m archers ds_100
+  - first:
+      213: 2942979471881427392
+    second: map m archers ds_101
+  - first:
+      213: 5183861402260402342
+    second: map m archers ds_102
+  - first:
+      213: 1715378697390012022
+    second: map m archers ds_103
+  - first:
+      213: -1133665955655404523
+    second: map m archers ds_104
+  - first:
+      213: 7199186084211023357
+    second: map m archers ds_105
+  - first:
+      213: -7983289123957777365
+    second: map m archers ds_106
+  - first:
+      213: 4390914959103348397
+    second: map m archers ds_107
+  - first:
+      213: 6568971719991339729
+    second: map m archers ds_108
+  - first:
+      213: 8552677334635667506
+    second: map m archers ds_109
+  - first:
+      213: 4044738341536802285
+    second: map m archers ds_110
+  - first:
+      213: 2881941228839765212
+    second: map m archers ds_111
+  - first:
+      213: 2251934669966086736
+    second: map m archers ds_112
+  - first:
+      213: -2405433711017048335
+    second: map m archers ds_113
+  - first:
+      213: 9024718282199043995
+    second: map m archers ds_114
+  - first:
+      213: -6628838886170108265
+    second: map m archers ds_115
+  - first:
+      213: -474319976060044486
+    second: map m archers ds_116
+  - first:
+      213: 8593743636855984588
+    second: map m archers ds_117
+  - first:
+      213: -4134399596664992302
+    second: map m archers ds_118
+  - first:
+      213: -6994798720662734361
+    second: map m archers ds_119
+  - first:
+      213: 3309509653633391585
+    second: map m archers ds_120
+  - first:
+      213: 7363080583906285966
+    second: map m archers ds_121
+  - first:
+      213: -7004456313480863884
+    second: map m archers ds_122
+  - first:
+      213: -2983792201002856094
+    second: map m archers ds_123
+  - first:
+      213: 305216232026457370
+    second: map m archers ds_124
+  - first:
+      213: -3628882347900871520
+    second: map m archers ds_125
+  - first:
+      213: 7934600200311370547
+    second: map m archers ds_126
+  - first:
+      213: 4398226791098805590
+    second: map m archers ds_127
+  - first:
+      213: -4617658271608637252
+    second: map m archers ds_128
+  - first:
+      213: -7769052545461813969
+    second: map m archers ds_129
+  - first:
+      213: -3946668326451543059
+    second: map m archers ds_130
+  - first:
+      213: 5866486632101817880
+    second: map m archers ds_131
+  - first:
+      213: -3984251112327265147
+    second: map m archers ds_132
+  - first:
+      213: 4187872799699076604
+    second: map m archers ds_133
+  - first:
+      213: -522075395754988999
+    second: map m archers ds_134
+  - first:
+      213: -1173542926257106674
+    second: map m archers ds_135
+  - first:
+      213: 322922372305797081
+    second: map m archers ds_136
+  - first:
+      213: 6286547974140662087
+    second: map m archers ds_137
+  - first:
+      213: 6583444645242817879
+    second: map m archers ds_138
+  - first:
+      213: 938342861266344634
+    second: map m archers ds_139
+  - first:
+      213: 1528666132550526971
+    second: map m archers ds_140
+  - first:
+      213: -1038673116027238875
+    second: map m archers ds_141
+  - first:
+      213: 7208115704044142073
+    second: map m archers ds_142
+  - first:
+      213: 1988204927181077865
+    second: map m archers ds_143
+  - first:
+      213: -596434026323213528
+    second: map m archers ds_144
+  - first:
+      213: -1155416663343049588
+    second: map m archers ds_145
+  - first:
+      213: -2936599362316865277
+    second: map m archers ds_146
+  - first:
+      213: -6095105850163329842
+    second: map m archers ds_147
+  - first:
+      213: 6723988582486342606
+    second: map m archers ds_148
+  - first:
+      213: 7703430998676029374
+    second: map m archers ds_149
+  - first:
+      213: -5962399720854654939
+    second: map m archers ds_150
+  - first:
+      213: 5077813244347389759
+    second: map m archers ds_151
+  - first:
+      213: -7735460859587632025
+    second: map m archers ds_152
+  - first:
+      213: 2907662073753949508
+    second: map m archers ds_153
+  - first:
+      213: -2039673710627467052
+    second: map m archers ds_154
+  - first:
+      213: -8876563862075550101
+    second: map m archers ds_155
+  - first:
+      213: 5908969454865490319
+    second: map m archers ds_156
+  - first:
+      213: 4178537532290921325
+    second: map m archers ds_157
+  - first:
+      213: 341942534287480861
+    second: map m archers ds_158
+  - first:
+      213: -3417071968328366142
+    second: map m archers ds_159
+  - first:
+      213: 3045583233261925742
+    second: map m archers ds_160
+  - first:
+      213: 2255032822148720904
+    second: map m archers ds_161
+  - first:
+      213: -4180545902516881494
+    second: map m archers ds_162
+  - first:
+      213: 6604314138208369350
+    second: map m archers ds_163
+  - first:
+      213: 7626175802111101553
+    second: map m archers ds_164
+  - first:
+      213: -7118041429810315807
+    second: map m archers ds_165
+  - first:
+      213: 9177614120905562169
+    second: map m archers ds_166
+  - first:
+      213: 3176398216872109111
+    second: map m archers ds_167
+  - first:
+      213: -5266850014956178524
+    second: map m archers ds_168
+  - first:
+      213: -8249904762834440240
+    second: map m archers ds_169
+  - first:
+      213: -1644410601237954262
+    second: map m archers ds_170
+  - first:
+      213: -5616870703301292977
+    second: map m archers ds_171
+  - first:
+      213: 5215561364418609149
+    second: map m archers ds_172
+  - first:
+      213: 9057686078927936588
+    second: map m archers ds_173
+  - first:
+      213: 1034420743633417826
+    second: map m archers ds_174
+  - first:
+      213: 8993402151152313945
+    second: map m archers ds_175
+  - first:
+      213: 5979212786956481431
+    second: map m archers ds_176
+  - first:
+      213: 7301832497262170290
+    second: map m archers ds_177
+  - first:
+      213: 4816742502676274723
+    second: map m archers ds_178
+  - first:
+      213: 6336793385642532516
+    second: map m archers ds_179
+  - first:
+      213: -4798245643072342696
+    second: map m archers ds_180
+  - first:
+      213: -1058264502078563539
+    second: map m archers ds_181
+  - first:
+      213: 8219967747295636720
+    second: map m archers ds_182
+  - first:
+      213: -2570321947753835728
+    second: map m archers ds_183
+  - first:
+      213: 4166808216901411367
+    second: map m archers ds_184
+  - first:
+      213: -7631543690297822514
+    second: map m archers ds_185
+  - first:
+      213: -3991232522645434147
+    second: map m archers ds_186
+  - first:
+      213: -4433466311009762641
+    second: map m archers ds_187
+  - first:
+      213: -4330429469063292057
+    second: map m archers ds_188
+  - first:
+      213: -1699347749053322052
+    second: map m archers ds_189
+  - first:
+      213: 3899814314735464433
+    second: map m archers ds_190
+  - first:
+      213: 222501636134325184
+    second: map m archers ds_191
+  - first:
+      213: -3036269661083825835
+    second: map m archers ds_192
+  - first:
+      213: 4166658768519995439
+    second: map m archers ds_193
+  - first:
+      213: -2624828706976071887
+    second: map m archers ds_194
+  - first:
+      213: -7723589691869356970
+    second: map m archers ds_195
+  - first:
+      213: 3888268569505849318
+    second: map m archers ds_196
+  - first:
+      213: -8763517792657701706
+    second: map m archers ds_197
+  - first:
+      213: -6108331917257045569
+    second: map m archers ds_198
+  - first:
+      213: -3521258228028074401
+    second: map m archers ds_199
+  - first:
+      213: 3186430701987195988
+    second: map m archers ds_200
+  - first:
+      213: -7090063433644423249
+    second: map m archers ds_201
+  - first:
+      213: -3681963911073274020
+    second: map m archers ds_202
+  - first:
+      213: 7899857458574384241
+    second: map m archers ds_203
+  - first:
+      213: 6566826084402782801
+    second: map m archers ds_204
+  - first:
+      213: -7931261974442085414
+    second: map m archers ds_205
+  - first:
+      213: -3394976794204556607
+    second: map m archers ds_206
+  - first:
+      213: 432954110151501257
+    second: map m archers ds_207
+  - first:
+      213: 7889754279280934144
+    second: map m archers ds_208
+  - first:
+      213: 4809142405865299862
+    second: map m archers ds_209
+  - first:
+      213: -2082450284458072767
+    second: map m archers ds_210
+  - first:
+      213: 1253847803131652423
+    second: map m archers ds_211
+  - first:
+      213: -1953077190702611116
+    second: map m archers ds_212
+  - first:
+      213: -666625884501062759
+    second: map m archers ds_213
+  - first:
+      213: 8666389847066736095
+    second: map m archers ds_214
+  - first:
+      213: 5962238629769449832
+    second: map m archers ds_215
+  - first:
+      213: 3924637219109734516
+    second: map m archers ds_216
+  - first:
+      213: 7600702610846489308
+    second: map m archers ds_217
+  - first:
+      213: -6864302290584955930
+    second: map m archers ds_218
+  - first:
+      213: -5260503712306906987
+    second: map m archers ds_219
+  - first:
+      213: 8754248818072491398
+    second: map m archers ds_220
+  - first:
+      213: 4075179800973005482
+    second: map m archers ds_221
+  - first:
+      213: 6414219347287268975
+    second: map m archers ds_222
+  - first:
+      213: -5248754753808417456
+    second: map m archers ds_223
+  - first:
+      213: 2654561094099545585
+    second: map m archers ds_224
+  - first:
+      213: -1202805094131325100
+    second: map m archers ds_225
+  - first:
+      213: 8519112104692769870
+    second: map m archers ds_226
+  - first:
+      213: -35281596602816624
+    second: map m archers ds_227
+  - first:
+      213: 4206589724269319560
+    second: map m archers ds_228
+  - first:
+      213: -2381760169119794012
+    second: map m archers ds_229
+  - first:
+      213: -6072322494069165513
+    second: map m archers ds_230
+  - first:
+      213: 133488940141708186
+    second: map m archers ds_231
+  - first:
+      213: 1978675736335051522
+    second: map m archers ds_232
+  - first:
+      213: 9064856679975659278
+    second: map m archers ds_233
+  - first:
+      213: 4026757759210309536
+    second: map m archers ds_234
+  - first:
+      213: 3605503385090421784
+    second: map m archers ds_235
+  - first:
+      213: 4509494905415959753
+    second: map m archers ds_236
+  - first:
+      213: -5399346738622889325
+    second: map m archers ds_237
+  - first:
+      213: -5874118761963810081
+    second: map m archers ds_238
+  - first:
+      213: -4593555848319395707
+    second: map m archers ds_239
+  - first:
+      213: 6835113739930470425
+    second: map m archers ds_240
+  - first:
+      213: -2618390598291495239
+    second: map m archers ds_241
+  - first:
+      213: -1267519244366148762
+    second: map m archers ds_242
+  - first:
+      213: 3709282662330036498
+    second: map m archers ds_243
+  - first:
+      213: 1618771831445460451
+    second: map m archers ds_244
+  - first:
+      213: 4600118212314657324
+    second: map m archers ds_245
+  - first:
+      213: 180447742307973619
+    second: map m archers ds_246
+  - first:
+      213: -5946974709337895964
+    second: map m archers ds_247
+  - first:
+      213: 7724867105303754194
+    second: map m archers ds_248
+  - first:
+      213: -6001964210202657075
+    second: map m archers ds_249
+  - first:
+      213: -6518737656361752364
+    second: map m archers ds_250
+  - first:
+      213: 6941106188811277447
+    second: map m archers ds_251
+  - first:
+      213: 7669189422623595934
+    second: map m archers ds_252
+  - first:
+      213: 3049115750334871244
+    second: map m archers ds_253
+  - first:
+      213: 4137116630957452869
+    second: map m archers ds_254
+  - first:
+      213: 7408064631069362048
+    second: map m archers ds_255
+  - first:
+      213: -7213639026006497401
+    second: map m archers ds_256
+  - first:
+      213: -6892074828295193089
+    second: map m archers ds_257
+  - first:
+      213: 3968489141233747062
+    second: map m archers ds_258
+  - first:
+      213: 2959745630499281417
+    second: map m archers ds_259
+  - first:
+      213: -6748202744948779621
+    second: map m archers ds_260
+  - first:
+      213: -5934873558742484547
+    second: map m archers ds_261
+  - first:
+      213: -5160978481834356534
+    second: map m archers ds_262
+  - first:
+      213: 5501660783882724139
+    second: map m archers ds_263
+  - first:
+      213: 5588112747116355267
+    second: map m archers ds_264
+  - first:
+      213: -4616495057201430668
+    second: map m archers ds_265
+  - first:
+      213: -3826998572317750624
+    second: map m archers ds_266
+  - first:
+      213: -1486208635856042109
+    second: map m archers ds_267
+  - first:
+      213: -7428957127671817244
+    second: map m archers ds_268
+  - first:
+      213: -1367220829593580403
+    second: map m archers ds_269
+  - first:
+      213: -5654625678315655160
+    second: map m archers ds_270
+  - first:
+      213: 6000317406015819583
+    second: map m archers ds_271
+  - first:
+      213: -5987578152055829561
+    second: map m archers ds_272
+  - first:
+      213: 7431577093431743613
+    second: map m archers ds_273
+  - first:
+      213: 8165593107973308432
+    second: map m archers ds_274
+  - first:
+      213: -6937091711036217337
+    second: map m archers ds_275
+  - first:
+      213: 7934863430831304468
+    second: map m archers ds_276
+  - first:
+      213: 2963708408823577085
+    second: map m archers ds_277
+  - first:
+      213: -8141564329289679776
+    second: map m archers ds_278
+  - first:
+      213: 7927436877423428052
+    second: map m archers ds_279
+  - first:
+      213: 1608516882626629139
+    second: map m archers ds_280
+  - first:
+      213: -6406816676403445712
+    second: map m archers ds_281
+  - first:
+      213: -3650618902916340351
+    second: map m archers ds_282
+  - first:
+      213: -7446874142280607432
+    second: map m archers ds_283
+  - first:
+      213: 7857799872827950100
+    second: map m archers ds_284
+  - first:
+      213: -1192484326138409468
+    second: map m archers ds_285
+  - first:
+      213: 2643024567103376487
+    second: map m archers ds_286
+  - first:
+      213: -3816139785217099539
+    second: map m archers ds_287
+  - first:
+      213: -53159587182005137
+    second: map m archers ds_288
+  - first:
+      213: 4035291926879439135
+    second: map m archers ds_289
+  - first:
+      213: 8802898551658366407
+    second: map m archers ds_290
+  - first:
+      213: 4979508738208092660
+    second: map m archers ds_291
+  - first:
+      213: -4414061611059794797
+    second: map m archers ds_292
+  - first:
+      213: -2960859481753688115
+    second: map m archers ds_293
+  - first:
+      213: -915637950759319086
+    second: map m archers ds_294
+  - first:
+      213: -3784106012144011326
+    second: map m archers ds_295
+  - first:
+      213: 3559564169090044629
+    second: map m archers ds_296
+  - first:
+      213: -2058790159020534685
+    second: map m archers ds_297
+  - first:
+      213: 4930765733252802291
+    second: map m archers ds_298
+  - first:
+      213: 7599361572474680176
+    second: map m archers ds_299
+  - first:
+      213: 2172182539016547404
+    second: map m archers ds_300
+  - first:
+      213: 5204079892066710877
+    second: map m archers ds_301
+  - first:
+      213: 2838746963534322388
+    second: map m archers ds_302
+  - first:
+      213: -2875519284414435528
+    second: map m archers ds_303
+  - first:
+      213: 8259668412049621825
+    second: map m archers ds_304
+  - first:
+      213: 7049975132576264511
+    second: map m archers ds_305
+  - first:
+      213: 2489261570635018412
+    second: map m archers ds_306
+  - first:
+      213: -3230957173317840329
+    second: map m archers ds_307
+  - first:
+      213: -8043462962886822492
+    second: map m archers ds_308
+  - first:
+      213: -4201298603957657465
+    second: map m archers ds_309
+  - first:
+      213: -713598372906492043
+    second: map m archers ds_310
+  - first:
+      213: 964399692367320504
+    second: map m archers ds_311
+  - first:
+      213: -1783494450936564596
+    second: map m archers ds_312
+  - first:
+      213: 4369094321761161991
+    second: map m archers ds_313
+  - first:
+      213: 1287162160749388104
+    second: map m archers ds_314
+  - first:
+      213: 5037408743474671525
+    second: map m archers ds_315
+  - first:
+      213: -4625143153793089959
+    second: map m archers ds_316
+  - first:
+      213: 8652728039295432539
+    second: map m archers ds_317
+  - first:
+      213: -5744862967342076491
+    second: map m archers ds_318
+  - first:
+      213: 5981966698959158027
+    second: map m archers ds_319
+  - first:
+      213: 5015732126558920684
+    second: map m archers ds_320
+  - first:
+      213: -69574054639035231
+    second: map m archers ds_321
+  - first:
+      213: -1129502313228193404
+    second: map m archers ds_322
+  - first:
+      213: -177744400788232118
+    second: map m archers ds_323
+  - first:
+      213: -6092519696629992018
+    second: map m archers ds_324
+  - first:
+      213: 653068087254211711
+    second: map m archers ds_325
+  - first:
+      213: -3890400205966328882
+    second: map m archers ds_326
+  - first:
+      213: 4757806768568646822
+    second: map m archers ds_327
+  - first:
+      213: -486617930815106335
+    second: map m archers ds_328
+  - first:
+      213: 2402549310468672160
+    second: map m archers ds_329
+  - first:
+      213: -5305474227469387140
+    second: map m archers ds_330
+  - first:
+      213: 5820249298488444762
+    second: map m archers ds_331
+  - first:
+      213: -562084143615740751
+    second: map m archers ds_332
+  - first:
+      213: -66338697614440779
+    second: map m archers ds_333
+  - first:
+      213: 4486383838003770436
+    second: map m archers ds_334
+  - first:
+      213: -5791732105510182614
+    second: map m archers ds_335
+  - first:
+      213: -1265798142062735181
+    second: map m archers ds_336
+  - first:
+      213: -6558660527303489058
+    second: map m archers ds_337
+  - first:
+      213: 5774346611347566628
+    second: map m archers ds_338
+  - first:
+      213: 7765126787451650278
+    second: map m archers ds_339
+  - first:
+      213: 2288559899265871285
+    second: map m archers ds_340
+  - first:
+      213: -5042512907308442491
+    second: map m archers ds_341
+  - first:
+      213: -3083085929886215019
+    second: map m archers ds_342
+  - first:
+      213: 2820774963263080037
+    second: map m archers ds_343
+  - first:
+      213: 4895955210345615347
+    second: map m archers ds_344
+  - first:
+      213: 6506816877277925721
+    second: map m archers ds_345
+  - first:
+      213: -9106930878313807649
+    second: map m archers ds_346
+  - first:
+      213: 3676978131036180516
+    second: map m archers ds_347
+  - first:
+      213: 1566973248812228275
+    second: map m archers ds_348
+  - first:
+      213: 8634024376523672561
+    second: map m archers ds_349
+  - first:
+      213: 4257813704186858351
+    second: map m archers ds_350
+  - first:
+      213: -4132631017003325733
+    second: map m archers ds_351
+  - first:
+      213: 7504026576262510514
+    second: map m archers ds_352
+  - first:
+      213: 2635064280312846730
+    second: map m archers ds_353
+  - first:
+      213: 8464594597100593663
+    second: map m archers ds_354
+  - first:
+      213: 3155281124929570744
+    second: map m archers ds_355
+  - first:
+      213: 2373067342207832542
+    second: map m archers ds_356
+  - first:
+      213: -4864753428234960572
+    second: map m archers ds_357
+  - first:
+      213: 8663564706056635440
+    second: map m archers ds_358
+  - first:
+      213: -5408361451245921712
+    second: map m archers ds_359
+  - first:
+      213: -1104168137883402983
+    second: map m archers ds_360
+  - first:
+      213: 480986580121227060
+    second: map m archers ds_361
+  - first:
+      213: 5124474826955210713
+    second: map m archers ds_362
+  - first:
+      213: 2158178858705343239
+    second: map m archers ds_363
+  - first:
+      213: -4936508090270378127
+    second: map m archers ds_364
+  - first:
+      213: -1979227275037410984
+    second: map m archers ds_365
+  - first:
+      213: 6555113206875789677
+    second: map m archers ds_366
+  - first:
+      213: -1625191874093226027
+    second: map m archers ds_367
+  - first:
+      213: 1284334612816769128
+    second: map m archers ds_368
+  - first:
+      213: 1457825632735657502
+    second: map m archers ds_369
+  - first:
+      213: 3065080275729810409
+    second: map m archers ds_370
+  - first:
+      213: -4853937823827907767
+    second: map m archers ds_371
+  - first:
+      213: -5515703169008538753
+    second: map m archers ds_372
+  - first:
+      213: 2560816336734884217
+    second: map m archers ds_373
+  - first:
+      213: -3254081972353537473
+    second: map m archers ds_374
+  - first:
+      213: 2011383610875359767
+    second: map m archers ds_375
+  - first:
+      213: 1372601311673959624
+    second: map m archers ds_376
+  - first:
+      213: -5693548736123991646
+    second: map m archers ds_377
+  - first:
+      213: -7704159829409351818
+    second: map m archers ds_378
+  - first:
+      213: -5219542701040025223
+    second: map m archers ds_379
+  - first:
+      213: 7960956503106583764
+    second: map m archers ds_380
+  - first:
+      213: 1227684407190863505
+    second: map m archers ds_381
+  - first:
+      213: -7624556661930620259
+    second: map m archers ds_382
+  - first:
+      213: 1243360950626059569
+    second: map m archers ds_383
+  - first:
+      213: -5127648596591058397
+    second: map m archers ds_384
+  - first:
+      213: 272139679840837515
+    second: map m archers ds_385
+  - first:
+      213: -6168931621531871198
+    second: map m archers ds_386
+  - first:
+      213: -32368106556927262
+    second: map m archers ds_387
+  - first:
+      213: 2412655096644527510
+    second: map m archers ds_388
+  - first:
+      213: -7501100769432534794
+    second: map m archers ds_389
+  - first:
+      213: -8884042446218405603
+    second: map m archers ds_390
+  - first:
+      213: -1748781898919679614
+    second: map m archers ds_391
+  - first:
+      213: -4195137089433632528
+    second: map m archers ds_392
+  - first:
+      213: -2009789499822332729
+    second: map m archers ds_393
+  - first:
+      213: -6146368123575724
+    second: map m archers ds_394
+  - first:
+      213: -8896400091257949042
+    second: map m archers ds_395
+  - first:
+      213: 4773859511170682213
+    second: map m archers ds_396
+  - first:
+      213: 9096441791269851933
+    second: map m archers ds_397
+  - first:
+      213: -8779696792285096908
+    second: map m archers ds_398
+  - first:
+      213: 2913249548504337337
+    second: map m archers ds_399
+  - first:
+      213: 4512117709335722520
+    second: map m archers ds_400
+  - first:
+      213: 4430248692949819587
+    second: map m archers ds_401
+  - first:
+      213: -8124596384736121017
+    second: map m archers ds_402
+  - first:
+      213: 8151315965592787561
+    second: map m archers ds_403
+  - first:
+      213: -8686561253183323995
+    second: map m archers ds_404
+  - first:
+      213: -6552922106380683628
+    second: map m archers ds_405
+  - first:
+      213: -6791397032684735134
+    second: map m archers ds_406
+  - first:
+      213: -1373170310314915289
+    second: map m archers ds_407
+  - first:
+      213: -7674018376976926286
+    second: map m archers ds_408
+  - first:
+      213: -3716847405023521627
+    second: map m archers ds_409
+  - first:
+      213: -640783699265505331
+    second: map m archers ds_410
+  - first:
+      213: 555013143473760042
+    second: map m archers ds_411
+  - first:
+      213: 2790222295394648210
+    second: map m archers ds_412
+  - first:
+      213: 2360253974270412644
+    second: map m archers ds_413
+  - first:
+      213: -5945332020139026866
+    second: map m archers ds_414
+  - first:
+      213: 910848946857178752
+    second: map m archers ds_415
+  - first:
+      213: -395637072742727207
+    second: map m archers ds_416
+  - first:
+      213: 5271122419596947262
+    second: map m archers ds_417
+  - first:
+      213: -1082380148029273537
+    second: map m archers ds_418
+  - first:
+      213: -1259463978324626331
+    second: map m archers ds_419
+  - first:
+      213: 1526639440160810396
+    second: map m archers ds_420
+  - first:
+      213: 1150096271334070073
+    second: map m archers ds_421
+  - first:
+      213: -5927670126100998034
+    second: map m archers ds_422
+  - first:
+      213: 9025961713522756502
+    second: map m archers ds_423
+  - first:
+      213: 4229070159923556490
+    second: map m archers ds_424
+  - first:
+      213: -856501124502455999
+    second: map m archers ds_425
+  - first:
+      213: -4970304512205403030
+    second: map m archers ds_426
+  - first:
+      213: -55384045006695899
+    second: map m archers ds_427
+  - first:
+      213: 8969544626687404033
+    second: map m archers ds_428
+  - first:
+      213: 5210512691644729093
+    second: map m archers ds_429
+  - first:
+      213: 1550835577105382018
+    second: map m archers ds_430
+  - first:
+      213: 3663506030741500835
+    second: map m archers ds_431
+  - first:
+      213: -7448748952750851105
+    second: map m archers ds_432
+  - first:
+      213: -8701345474572729515
+    second: map m archers ds_433
+  - first:
+      213: 4838968092324879366
+    second: map m archers ds_434
+  - first:
+      213: 5349848826864706786
+    second: map m archers ds_435
+  - first:
+      213: 7059088891342999581
+    second: map m archers ds_436
+  - first:
+      213: 4080757017164974892
+    second: map m archers ds_437
+  - first:
+      213: 2463020654291129552
+    second: map m archers ds_438
+  - first:
+      213: -4101425056064419307
+    second: map m archers ds_439
+  - first:
+      213: 119362269450655484
+    second: map m archers ds_440
+  - first:
+      213: -7519522536402727199
+    second: map m archers ds_441
+  - first:
+      213: -8948478236143026808
+    second: map m archers ds_442
+  - first:
+      213: 6963767601657218863
+    second: map m archers ds_443
+  - first:
+      213: -572349657299841876
+    second: map m archers ds_444
+  - first:
+      213: -8384557649994822086
+    second: map m archers ds_445
+  - first:
+      213: -4763355277108319546
+    second: map m archers ds_446
+  - first:
+      213: -5736419829092200971
+    second: map m archers ds_447
+  - first:
+      213: -7871180310382545427
+    second: map m archers ds_448
+  - first:
+      213: 8601247385135210266
+    second: map m archers ds_449
+  - first:
+      213: 613752367653483171
+    second: map m archers ds_450
+  - first:
+      213: 7033558225766312707
+    second: map m archers ds_451
+  - first:
+      213: 1733113701052921276
+    second: map m archers ds_452
+  - first:
+      213: -8927266753777095001
+    second: map m archers ds_453
+  - first:
+      213: 415360902965223911
+    second: map m archers ds_454
+  - first:
+      213: -4223647717587869680
+    second: map m archers ds_455
+  - first:
+      213: 3674841833598487251
+    second: map m archers ds_456
+  - first:
+      213: -6989912591555198064
+    second: map m archers ds_457
+  - first:
+      213: 6549776602873890133
+    second: map m archers ds_458
+  - first:
+      213: 9042602449519010160
+    second: map m archers ds_459
+  - first:
+      213: 1409673806962979410
+    second: map m archers ds_460
+  - first:
+      213: -1157679673729305376
+    second: map m archers ds_461
+  - first:
+      213: -1415433193369147897
+    second: map m archers ds_462
+  - first:
+      213: -1422830376283566444
+    second: map m archers ds_463
+  - first:
+      213: -6526521689415076317
+    second: map m archers ds_464
+  - first:
+      213: 2861409615081274381
+    second: map m archers ds_465
+  - first:
+      213: 9061954286601973902
+    second: map m archers ds_466
+  - first:
+      213: 8321181962674563881
+    second: map m archers ds_467
+  - first:
+      213: 6502221478732789798
+    second: map m archers ds_468
+  - first:
+      213: 1468058163980305046
+    second: map m archers ds_469
+  - first:
+      213: -4041029789332500500
+    second: map m archers ds_470
+  - first:
+      213: 6343283351282598973
+    second: map m archers ds_471
+  - first:
+      213: 5417761133178994198
+    second: map m archers ds_472
+  - first:
+      213: 2118353931010271024
+    second: map m archers ds_473
+  - first:
+      213: -5124313709523320845
+    second: map m archers ds_474
+  - first:
+      213: 1839840080653922842
+    second: map m archers ds_475
+  - first:
+      213: 7999818400472916539
+    second: map m archers ds_476
+  - first:
+      213: 5348152652846804255
+    second: map m archers ds_477
+  - first:
+      213: -2522391943010885909
+    second: map m archers ds_478
+  - first:
+      213: -7440287932879816391
+    second: map m archers ds_479
+  - first:
+      213: -2545974043723824235
+    second: map m archers ds_480
+  - first:
+      213: -6696600098352606444
+    second: map m archers ds_481
+  - first:
+      213: 4049591159150419899
+    second: map m archers ds_482
+  - first:
+      213: -8518600805391255671
+    second: map m archers ds_483
+  - first:
+      213: -8620011393238803955
+    second: map m archers ds_484
+  - first:
+      213: -2840153528693293287
+    second: map m archers ds_485
+  - first:
+      213: 6731798277663653262
+    second: map m archers ds_486
+  - first:
+      213: -2360679188191164898
+    second: map m archers ds_487
+  - first:
+      213: -6837509939688639096
+    second: map m archers ds_488
+  - first:
+      213: 7132231992553685070
+    second: map m archers ds_489
+  - first:
+      213: -4445489234619408540
+    second: map m archers ds_490
+  - first:
+      213: 9145209743020758797
+    second: map m archers ds_491
+  - first:
+      213: -5185335701426765866
+    second: map m archers ds_492
+  - first:
+      213: 7953719712212799054
+    second: map m archers ds_493
+  - first:
+      213: -5638424642945097479
+    second: map m archers ds_494
+  - first:
+      213: 514863211809991264
+    second: map m archers ds_495
+  - first:
+      213: 6924981759658111009
+    second: map m archers ds_496
+  - first:
+      213: 3152568392003430774
+    second: map m archers ds_497
+  - first:
+      213: 6821813628611146891
+    second: map m archers ds_498
+  - first:
+      213: 366445217068355349
+    second: map m archers ds_499
+  - first:
+      213: 8684884689133597242
+    second: map m archers ds_500
+  - first:
+      213: 5503798347869591705
+    second: map m archers ds_501
+  - first:
+      213: 4987789269099472242
+    second: map m archers ds_502
+  - first:
+      213: -83192045600169263
+    second: map m archers ds_503
+  - first:
+      213: -6950332680626728336
+    second: map m archers ds_504
+  - first:
+      213: -2030670911970724883
+    second: map m archers ds_505
+  - first:
+      213: -2243808987277832155
+    second: map m archers ds_506
+  - first:
+      213: -6410366257793527743
+    second: map m archers ds_507
+  - first:
+      213: -8326457365061124160
+    second: map m archers ds_508
+  - first:
+      213: -4359053473169184839
+    second: map m archers ds_509
+  - first:
+      213: -2122798484761670234
+    second: map m archers ds_510
+  - first:
+      213: -431925397845936997
+    second: map m archers ds_511
+  - first:
+      213: 6260187136377909564
+    second: map m archers ds_512
+  - first:
+      213: -6611972242479242167
+    second: map m archers ds_513
+  - first:
+      213: 7790087441810542829
+    second: map m archers ds_514
+  - first:
+      213: 3660624470564103986
+    second: map m archers ds_515
+  - first:
+      213: -5338321319667321659
+    second: map m archers ds_516
+  - first:
+      213: -5179839036523154769
+    second: map m archers ds_517
+  - first:
+      213: -5347926376798912401
+    second: map m archers ds_518
+  - first:
+      213: -4532005065440979678
+    second: map m archers ds_519
+  - first:
+      213: -4220032038037429160
+    second: map m archers ds_520
+  - first:
+      213: -236982806050750053
+    second: map m archers ds_521
+  - first:
+      213: 3993344464414456458
+    second: map m archers ds_522
+  - first:
+      213: 2347594788572630530
+    second: map m archers ds_523
+  - first:
+      213: 7687254479239322782
+    second: map m archers ds_524
+  - first:
+      213: -7447801145354591968
+    second: map m archers ds_525
+  - first:
+      213: -3081302599583721277
+    second: map m archers ds_526
+  - first:
+      213: -6527001226725351384
+    second: map m archers ds_527
+  - first:
+      213: 4051608464324891928
+    second: map m archers ds_528
+  - first:
+      213: 3082265768975552497
+    second: map m archers ds_529
+  - first:
+      213: -7818273329799907913
+    second: map m archers ds_530
+  - first:
+      213: -2578128798326987073
+    second: map m archers ds_531
+  - first:
+      213: -1880029879746483888
+    second: map m archers ds_532
+  - first:
+      213: 4652796178557343580
+    second: map m archers ds_533
+  - first:
+      213: 3378281575719766927
+    second: map m archers ds_534
+  - first:
+      213: 1701304405718949783
+    second: map m archers ds_535
+  - first:
+      213: 1182064667367115363
+    second: map m archers ds_536
+  - first:
+      213: -3778840529917500821
+    second: map m archers ds_537
+  - first:
+      213: 4979931584937699100
+    second: map m archers ds_538
+  - first:
+      213: 1518706360735480541
+    second: map m archers ds_539
+  - first:
+      213: -1590771457178474412
+    second: map m archers ds_540
+  - first:
+      213: 6675181283999010754
+    second: map m archers ds_541
+  - first:
+      213: -6035120064592509798
+    second: map m archers ds_542
+  - first:
+      213: 6133511883784385587
+    second: map m archers ds_543
+  - first:
+      213: -3237623374174552210
+    second: map m archers ds_544
+  - first:
+      213: -1555937917441420519
+    second: map m archers ds_545
+  - first:
+      213: -48318646174835943
+    second: map m archers ds_546
+  - first:
+      213: 4629741590788352674
+    second: map m archers ds_547
+  - first:
+      213: -3486504826393721219
+    second: map m archers ds_548
+  - first:
+      213: -8288516177035114620
+    second: map m archers ds_549
+  - first:
+      213: 9170796007355062194
+    second: map m archers ds_550
+  - first:
+      213: 5355681177187268989
+    second: map m archers ds_551
+  - first:
+      213: -8944621873037198086
+    second: map m archers ds_552
+  - first:
+      213: -3433588200953384840
+    second: map m archers ds_553
+  - first:
+      213: -8470834155791395797
+    second: map m archers ds_554
+  - first:
+      213: -5848107901629501535
+    second: map m archers ds_555
+  - first:
+      213: -1397618082886316305
+    second: map m archers ds_556
+  - first:
+      213: 4543996781977356789
+    second: map m archers ds_557
+  - first:
+      213: -795367394477668546
+    second: map m archers ds_558
+  - first:
+      213: 6804839576735380451
+    second: map m archers ds_559
+  - first:
+      213: 3485615898119575468
+    second: map m archers ds_560
+  - first:
+      213: 5864964015255550664
+    second: map m archers ds_561
+  - first:
+      213: -7587475992883596582
+    second: map m archers ds_562
+  - first:
+      213: 888899225718114827
+    second: map m archers ds_563
+  - first:
+      213: -4346932909072344910
+    second: map m archers ds_564
+  - first:
+      213: 8716618599574442702
+    second: map m archers ds_565
+  - first:
+      213: -8251895802004129711
+    second: map m archers ds_566
+  - first:
+      213: -8602419787443744366
+    second: map m archers ds_567
+  - first:
+      213: -6907351694999775606
+    second: map m archers ds_568
+  - first:
+      213: -7564410171418276358
+    second: map m archers ds_569
+  - first:
+      213: 6985877521894577859
+    second: map m archers ds_570
+  - first:
+      213: 5376434551319695303
+    second: map m archers ds_571
+  - first:
+      213: -6318820693297103901
+    second: map m archers ds_572
+  - first:
+      213: 9057682379817916782
+    second: map m archers ds_573
+  - first:
+      213: 8408854925467137184
+    second: map m archers ds_574
+  - first:
+      213: 1445770755226462748
+    second: map m archers ds_575
+  - first:
+      213: 7826441595238917301
+    second: map m archers ds_576
+  - first:
+      213: -8564621921304524046
+    second: map m archers ds_577
+  - first:
+      213: -5350375905985003292
+    second: map m archers ds_578
+  - first:
+      213: -5852113645527330371
+    second: map m archers ds_579
+  - first:
+      213: 2450117832265429741
+    second: map m archers ds_580
+  - first:
+      213: -4251554854008723366
+    second: map m archers ds_581
+  - first:
+      213: 4912875091707397298
+    second: map m archers ds_582
+  - first:
+      213: 8952908690426513691
+    second: map m archers ds_583
+  - first:
+      213: -1599381541505273707
+    second: map m archers ds_584
+  - first:
+      213: 4873182882957529604
+    second: map m archers ds_585
+  - first:
+      213: 8891270199596118387
+    second: map m archers ds_586
+  - first:
+      213: 5278085447820130304
+    second: map m archers ds_587
+  - first:
+      213: -9074831128928381934
+    second: map m archers ds_588
+  - first:
+      213: -5011270629699277281
+    second: map m archers ds_589
+  - first:
+      213: 8886705577199679575
+    second: map m archers ds_590
+  - first:
+      213: 5290108982760392912
+    second: map m archers ds_591
+  - first:
+      213: -4485967143593529730
+    second: map m archers ds_592
+  - first:
+      213: -5098954081362128103
+    second: map m archers ds_593
+  - first:
+      213: -3034761858137757048
+    second: map m archers ds_594
+  - first:
+      213: 9021989536455929491
+    second: map m archers ds_595
+  - first:
+      213: 2082081636334340492
+    second: map m archers ds_596
+  - first:
+      213: 2786503435482695401
+    second: map m archers ds_597
+  - first:
+      213: 4648977719816965830
+    second: map m archers ds_598
+  - first:
+      213: -4365248967382376421
+    second: map m archers ds_599
+  - first:
+      213: -652252697429594740
+    second: map m archers ds_600
+  - first:
+      213: 2362151516598809246
+    second: map m archers ds_601
+  - first:
+      213: -3033899561443177931
+    second: map m archers ds_602
+  - first:
+      213: -8610564057761757910
+    second: map m archers ds_603
+  - first:
+      213: -8048152234860426496
+    second: map m archers ds_604
+  - first:
+      213: 1344194426900361498
+    second: map m archers ds_605
+  - first:
+      213: 2548756332262160940
+    second: map m archers ds_606
+  - first:
+      213: 4813449721211332326
+    second: map m archers ds_607
+  - first:
+      213: -7944572772711448299
+    second: map m archers ds_608
+  - first:
+      213: -5545251243659087061
+    second: map m archers ds_609
+  - first:
+      213: -6389118472221232712
+    second: map m archers ds_610
+  - first:
+      213: 8549994257542286111
+    second: map m archers ds_611
+  - first:
+      213: -647407667802042136
+    second: map m archers ds_612
+  - first:
+      213: -3939975216901240145
+    second: map m archers ds_613
+  - first:
+      213: 2343485430767688614
+    second: map m archers ds_614
+  - first:
+      213: -4036080307094299043
+    second: map m archers ds_615
+  - first:
+      213: -7104604994692574530
+    second: map m archers ds_616
+  - first:
+      213: -5375229810943998956
+    second: map m archers ds_617
+  - first:
+      213: -251482105071169631
+    second: map m archers ds_618
+  - first:
+      213: 3356945887905035690
+    second: map m archers ds_619
+  - first:
+      213: -692567836893680896
+    second: map m archers ds_620
+  - first:
+      213: 4277319866646935753
+    second: map m archers ds_621
+  - first:
+      213: -6203188231995428692
+    second: map m archers ds_622
+  - first:
+      213: -8906244676142181819
+    second: map m archers ds_623
+  - first:
+      213: 5485212017720625155
+    second: map m archers ds_624
+  - first:
+      213: 3139169579774319380
+    second: map m archers ds_625
+  - first:
+      213: 7137848883712321225
+    second: map m archers ds_626
+  - first:
+      213: -5320898224501514898
+    second: map m archers ds_627
+  - first:
+      213: -8643265789285945950
+    second: map m archers ds_628
+  - first:
+      213: -1363593489555174060
+    second: map m archers ds_629
+  - first:
+      213: 276640212097374056
+    second: map m archers ds_630
+  - first:
+      213: 8537121051725539412
+    second: map m archers ds_631
+  - first:
+      213: -3837053388227973753
+    second: map m archers ds_632
+  - first:
+      213: -399346264338363657
+    second: map m archers ds_633
+  - first:
+      213: 6803284628106862188
+    second: map m archers ds_634
+  - first:
+      213: -1644781198054585653
+    second: map m archers ds_635
+  - first:
+      213: 2647951387744247452
+    second: map m archers ds_636
+  - first:
+      213: 6286418601803722519
+    second: map m archers ds_637
+  - first:
+      213: -41527553163462094
+    second: map m archers ds_638
+  - first:
+      213: 6288097610590628565
+    second: map m archers ds_639
+  - first:
+      213: -8144901784298731418
+    second: map m archers ds_640
+  - first:
+      213: 9150258559099804587
+    second: map m archers ds_641
+  - first:
+      213: 1832431098942633863
+    second: map m archers ds_642
+  - first:
+      213: 7559729105214166227
+    second: map m archers ds_643
+  - first:
+      213: -1005825341416352220
+    second: map m archers ds_644
+  - first:
+      213: 624978513254238569
+    second: map m archers ds_645
+  - first:
+      213: 4710626820756960020
+    second: map m archers ds_646
+  - first:
+      213: 3480093052021149201
+    second: map m archers ds_647
+  - first:
+      213: -1637252098417841666
+    second: map m archers ds_648
+  - first:
+      213: 1737130669339632031
+    second: map m archers ds_649
+  - first:
+      213: -4536204320101652367
+    second: map m archers ds_650
+  - first:
+      213: -4161242398622537593
+    second: map m archers ds_651
+  - first:
+      213: -7127078977753426824
+    second: map m archers ds_652
+  - first:
+      213: -4471523506499369356
+    second: map m archers ds_653
+  - first:
+      213: -3217496450358767322
+    second: map m archers ds_654
+  - first:
+      213: 8982087848466044862
+    second: map m archers ds_655
+  - first:
+      213: -1222369730472080554
+    second: map m archers ds_656
+  - first:
+      213: 6857090965643296722
+    second: map m archers ds_657
+  - first:
+      213: -9028565342063686963
+    second: map m archers ds_658
+  - first:
+      213: 3552628429738878514
+    second: map m archers ds_659
+  - first:
+      213: 7459104357459522397
+    second: map m archers ds_660
+  - first:
+      213: -7495815727014288060
+    second: map m archers ds_661
+  - first:
+      213: -8840195431621083634
+    second: map m archers ds_662
+  - first:
+      213: 6729138255635693053
+    second: map m archers ds_663
+  - first:
+      213: 8900415065493997741
+    second: map m archers ds_664
+  - first:
+      213: 4347086235142108506
+    second: map m archers ds_665
+  - first:
+      213: -3099619314001112356
+    second: map m archers ds_666
+  - first:
+      213: -5773345229557669194
+    second: map m archers ds_667
+  - first:
+      213: -1900965538267371057
+    second: map m archers ds_668
+  - first:
+      213: 3504455546639772363
+    second: map m archers ds_669
+  - first:
+      213: -2295891540944639525
+    second: map m archers ds_670
+  - first:
+      213: 3742361978900800114
+    second: map m archers ds_671
+  - first:
+      213: 4639521883552723642
+    second: map m archers ds_672
+  - first:
+      213: 9073271981325589251
+    second: map m archers ds_673
+  - first:
+      213: 3956953607008225387
+    second: map m archers ds_674
+  - first:
+      213: -7377423850607586723
+    second: map m archers ds_675
+  - first:
+      213: -2215813553911982946
+    second: map m archers ds_676
+  - first:
+      213: 4655968864614862542
+    second: map m archers ds_677
+  - first:
+      213: 6563268763105833010
+    second: map m archers ds_678
+  - first:
+      213: -6726918972779470804
+    second: map m archers ds_679
+  - first:
+      213: 7353174843544264742
+    second: map m archers ds_680
+  - first:
+      213: -803528305017079505
+    second: map m archers ds_681
+  - first:
+      213: 5075526383273172474
+    second: map m archers ds_682
+  - first:
+      213: 4906169635622847120
+    second: map m archers ds_683
+  - first:
+      213: 9222425917581012076
+    second: map m archers ds_684
+  - first:
+      213: -1213866337795885524
+    second: map m archers ds_685
+  - first:
+      213: 4705022087851884742
+    second: map m archers ds_686
+  - first:
+      213: -6576413088731209217
+    second: map m archers ds_687
+  - first:
+      213: -7616756686583652480
+    second: map m archers ds_688
+  - first:
+      213: 5462101562536347967
+    second: map m archers ds_689
+  - first:
+      213: -2714565947033203691
+    second: map m archers ds_690
+  - first:
+      213: 2034550713963098384
+    second: map m archers ds_691
+  - first:
+      213: 3491213364424158370
+    second: map m archers ds_692
+  - first:
+      213: 8322228728627223522
+    second: map m archers ds_693
+  - first:
+      213: 164873714038763124
+    second: map m archers ds_694
+  - first:
+      213: -6074203460537915365
+    second: map m archers ds_695
+  - first:
+      213: 2602917061387065124
+    second: map m archers ds_696
+  - first:
+      213: -3926243139334854967
+    second: map m archers ds_697
+  - first:
+      213: 1431357539421424062
+    second: map m archers ds_698
+  - first:
+      213: 8524777378798137543
+    second: map m archers ds_699
+  - first:
+      213: 8531909893064041661
+    second: map m archers ds_700
+  - first:
+      213: -221903392510914754
+    second: map m archers ds_701
+  - first:
+      213: -1444415185902738721
+    second: map m archers ds_702
+  - first:
+      213: 6793129264918561265
+    second: map m archers ds_703
+  - first:
+      213: 1948368312256737308
+    second: map m archers ds_704
+  - first:
+      213: -5462630577509747686
+    second: map m archers ds_705
+  - first:
+      213: 1437226897308103673
+    second: map m archers ds_706
+  - first:
+      213: -5052812076005407500
+    second: map m archers ds_707
+  - first:
+      213: -2326387513362462280
+    second: map m archers ds_708
+  - first:
+      213: 4571674599137183015
+    second: map m archers ds_709
+  - first:
+      213: 4540455562503668665
+    second: map m archers ds_710
+  - first:
+      213: -6332934217813699705
+    second: map m archers ds_711
+  - first:
+      213: -4985991691801805374
+    second: map m archers ds_712
+  - first:
+      213: -3870714221617371830
+    second: map m archers ds_713
+  - first:
+      213: 6913012013072824314
+    second: map m archers ds_714
+  - first:
+      213: 8843249703226606754
+    second: map m archers ds_715
+  - first:
+      213: -8136770641353686058
+    second: map m archers ds_716
+  - first:
+      213: -8831747179011263763
+    second: map m archers ds_717
+  - first:
+      213: 3782917466132466706
+    second: map m archers ds_718
+  - first:
+      213: -1378406073468167532
+    second: map m archers ds_719
+  - first:
+      213: -6738171246791618773
+    second: map m archers ds_720
+  - first:
+      213: -1317726364250983125
+    second: map m archers ds_721
+  - first:
+      213: 8788982388689313278
+    second: map m archers ds_722
+  - first:
+      213: -3393483978259480896
+    second: map m archers ds_723
+  - first:
+      213: 5812071174472137343
+    second: map m archers ds_724
+  - first:
+      213: 5505932368454330643
+    second: map m archers ds_725
+  - first:
+      213: -7363361711526976358
+    second: map m archers ds_726
+  - first:
+      213: 8512585624399177556
+    second: map m archers ds_727
+  - first:
+      213: -8157450990129622232
+    second: map m archers ds_728
+  - first:
+      213: 1127268270196126651
+    second: map m archers ds_729
+  - first:
+      213: 5887334383793875792
+    second: map m archers ds_730
+  - first:
+      213: 1095864747316145363
+    second: map m archers ds_731
+  - first:
+      213: 2545906660836299368
+    second: map m archers ds_732
+  - first:
+      213: 4609304486847826052
+    second: map m archers ds_733
+  - first:
+      213: 3384018999443870407
+    second: map m archers ds_734
+  - first:
+      213: -3123311091661846264
+    second: map m archers ds_735
+  - first:
+      213: 1657098737205857892
+    second: map m archers ds_736
+  - first:
+      213: -5618162100540471248
+    second: map m archers ds_737
+  - first:
+      213: -5272610271824897920
+    second: map m archers ds_738
+  - first:
+      213: 3481165148796820942
+    second: map m archers ds_739
+  - first:
+      213: 7096709774802445586
+    second: map m archers ds_740
+  - first:
+      213: -686377863034294730
+    second: map m archers ds_741
+  - first:
+      213: 6754493673938191618
+    second: map m archers ds_742
+  - first:
+      213: -2344850453124181956
+    second: map m archers ds_743
+  - first:
+      213: -2988482779044819342
+    second: map m archers ds_744
+  - first:
+      213: -8669117262253094505
+    second: map m archers ds_745
+  - first:
+      213: 8872304049576474359
+    second: map m archers ds_746
+  - first:
+      213: -6107735492282158852
+    second: map m archers ds_747
+  - first:
+      213: 2588125791837476182
+    second: map m archers ds_748
+  - first:
+      213: -1531144678020080723
+    second: map m archers ds_749
+  - first:
+      213: 2784964494282739974
+    second: map m archers ds_750
+  - first:
+      213: -7979657132311519299
+    second: map m archers ds_751
+  - first:
+      213: -6551732194477146207
+    second: map m archers ds_752
+  - first:
+      213: 2741074580294011102
+    second: map m archers ds_753
+  - first:
+      213: 4938953630998584028
+    second: map m archers ds_754
+  - first:
+      213: -8321823414872410304
+    second: map m archers ds_755
+  - first:
+      213: 4876040962948121620
+    second: map m archers ds_756
+  - first:
+      213: -1593222315052686236
+    second: map m archers ds_757
+  - first:
+      213: -6607452664673308778
+    second: map m archers ds_758
+  - first:
+      213: 6122919029245177306
+    second: map m archers ds_759
+  - first:
+      213: -1027677214651828287
+    second: map m archers ds_760
+  - first:
+      213: -8363125958038413835
+    second: map m archers ds_761
+  - first:
+      213: -1946560617814342244
+    second: map m archers ds_762
+  - first:
+      213: 2160631029119772369
+    second: map m archers ds_763
+  - first:
+      213: -3900582464154026803
+    second: map m archers ds_764
+  - first:
+      213: -882435210188870292
+    second: map m archers ds_765
+  - first:
+      213: -23813211636683924
+    second: map m archers ds_766
+  - first:
+      213: -2073686712376246015
+    second: map m archers ds_767
+  - first:
+      213: 7119944489747649722
+    second: map m archers ds_768
+  - first:
+      213: 2118396767609535668
+    second: map m archers ds_769
+  - first:
+      213: 2373501219012582543
+    second: map m archers ds_770
+  - first:
+      213: 2777306127169195204
+    second: map m archers ds_771
+  - first:
+      213: -536484056380134352
+    second: map m archers ds_772
+  - first:
+      213: 3160911025313183366
+    second: map m archers ds_773
+  - first:
+      213: -6164247083145605714
+    second: map m archers ds_774
+  - first:
+      213: 5574233238224191161
+    second: map m archers ds_775
+  - first:
+      213: 1602355088790873082
+    second: map m archers ds_776
+  - first:
+      213: -125442347768630448
+    second: map m archers ds_777
+  - first:
+      213: 8206665523606971701
+    second: map m archers ds_778
+  - first:
+      213: -3658449676715484343
+    second: map m archers ds_779
+  - first:
+      213: -2337332945299771082
+    second: map m archers ds_780
+  - first:
+      213: 914705162005916212
+    second: map m archers ds_781
+  - first:
+      213: -7545606453316862223
+    second: map m archers ds_782
+  - first:
+      213: 4247531943082888563
+    second: map m archers ds_783
+  - first:
+      213: -8422863397869714399
+    second: map m archers ds_784
+  - first:
+      213: 3410827670811752439
+    second: map m archers ds_785
+  - first:
+      213: -1462506770494895457
+    second: map m archers ds_786
+  - first:
+      213: -4018929568514036232
+    second: map m archers ds_787
+  - first:
+      213: 687131965641163137
+    second: map m archers ds_788
+  - first:
+      213: -9166862270506429451
+    second: map m archers ds_789
+  - first:
+      213: -7655903808818679843
+    second: map m archers ds_790
+  - first:
+      213: 2648844687862333133
+    second: map m archers ds_791
+  - first:
+      213: -8499697958985177193
+    second: map m archers ds_792
+  - first:
+      213: 3063783978661160027
+    second: map m archers ds_793
+  - first:
+      213: 4995689412027242016
+    second: map m archers ds_794
+  - first:
+      213: -7172546495622320560
+    second: map m archers ds_795
+  - first:
+      213: 6633453292019165369
+    second: map m archers ds_796
+  - first:
+      213: -1918141232537711002
+    second: map m archers ds_797
+  - first:
+      213: 138241995928221717
+    second: map m archers ds_798
+  - first:
+      213: 3945591698868417650
+    second: map m archers ds_799
+  - first:
+      213: -1792638322841923996
+    second: map m archers ds_800
+  - first:
+      213: -7174317229871505430
+    second: map m archers ds_801
+  - first:
+      213: 1701406459451332779
+    second: map m archers ds_802
+  - first:
+      213: -6941418159995434785
+    second: map m archers ds_803
+  - first:
+      213: 4883727179809385783
+    second: map m archers ds_804
+  - first:
+      213: 5950826007689350315
+    second: map m archers ds_805
+  - first:
+      213: -2520899824742970411
+    second: map m archers ds_806
+  - first:
+      213: -4043089087782415953
+    second: map m archers ds_807
+  - first:
+      213: -5670501120653952643
+    second: map m archers ds_808
+  - first:
+      213: 8681424929913476865
+    second: map m archers ds_809
+  - first:
+      213: -1082465189808515566
+    second: map m archers ds_810
+  - first:
+      213: -1306042625808866577
+    second: map m archers ds_811
+  - first:
+      213: 8853242015422002197
+    second: map m archers ds_812
+  - first:
+      213: -5385033706998392853
+    second: map m archers ds_813
+  - first:
+      213: 363240650291992679
+    second: map m archers ds_814
+  - first:
+      213: 391013062051693928
+    second: map m archers ds_815
+  - first:
+      213: -8489439337805546992
+    second: map m archers ds_816
+  - first:
+      213: -8876429051010223584
+    second: map m archers ds_817
+  - first:
+      213: 3691796295963171825
+    second: map m archers ds_818
+  - first:
+      213: -929067032213927214
+    second: map m archers ds_819
+  - first:
+      213: -3330186601707741644
+    second: map m archers ds_820
+  - first:
+      213: -1086533210213520885
+    second: map m archers ds_821
+  - first:
+      213: 7473524879667166162
+    second: map m archers ds_822
+  - first:
+      213: 7292931540913645521
+    second: map m archers ds_823
+  - first:
+      213: -7645888164206982193
+    second: map m archers ds_824
+  - first:
+      213: -7372352826633287591
+    second: map m archers ds_825
+  - first:
+      213: -7171716657189418289
+    second: map m archers ds_826
+  - first:
+      213: -4278486751700637864
+    second: map m archers ds_827
+  - first:
+      213: -6688039024057014739
+    second: map m archers ds_828
+  - first:
+      213: 1174092424795947546
+    second: map m archers ds_829
+  - first:
+      213: -8934179853470738385
+    second: map m archers ds_830
+  - first:
+      213: 5056387535121760847
+    second: map m archers ds_831
+  - first:
+      213: -2460383476896835713
+    second: map m archers ds_832
+  - first:
+      213: -4697334569824919001
+    second: map m archers ds_833
+  - first:
+      213: 8617790459801105470
+    second: map m archers ds_834
+  - first:
+      213: -7686993706408642351
+    second: map m archers ds_835
+  - first:
+      213: 1230567602844424739
+    second: map m archers ds_836
+  - first:
+      213: 1831280887091139542
+    second: map m archers ds_837
+  - first:
+      213: -5089707153944323887
+    second: map m archers ds_838
+  - first:
+      213: -1324043939255420125
+    second: map m archers ds_839
+  - first:
+      213: -8817261971875244835
+    second: map m archers ds_840
+  - first:
+      213: 6112900005040465113
+    second: map m archers ds_841
+  - first:
+      213: -8447575274760346437
+    second: map m archers ds_842
+  - first:
+      213: 1017034818037833763
+    second: map m archers ds_843
+  - first:
+      213: -4863981628044018727
+    second: map m archers ds_844
+  - first:
+      213: -1587052054060966537
+    second: map m archers ds_845
+  - first:
+      213: -7833681947492296769
+    second: map m archers ds_846
+  - first:
+      213: -1491421478906448324
+    second: map m archers ds_847
+  - first:
+      213: 1123560819457274348
+    second: map m archers ds_848
+  - first:
+      213: -1508999377123369478
+    second: map m archers ds_849
+  - first:
+      213: -4276296311457815459
+    second: map m archers ds_850
+  - first:
+      213: -2204755176693493639
+    second: map m archers ds_851
+  - first:
+      213: -4534032742394766268
+    second: map m archers ds_852
+  - first:
+      213: 3974552314394103627
+    second: map m archers ds_853
+  - first:
+      213: -592517867063721579
+    second: map m archers ds_854
+  - first:
+      213: 6258686778171328356
+    second: map m archers ds_855
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: map m archers ds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c53dd16afa656790800000000000000
+      internalID: -7537500777718401593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c6397d18ebd6600800000000000000
+      internalID: 463235801565850632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c7a2e278913c7c0800000000000000
+      internalID: -4052367171317498765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490dacfef5ff7f50800000000000000
+      internalID: 6881489231155104071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe36f662fa312c60800000000000000
+      internalID: 7791573643111579325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4829e4e7c54be0800000000000000
+      internalID: -1493567915425247306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313879cb1cab2e590800000000000000
+      internalID: -7646343876066180333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a0e79025c22a9a0800000000000000
+      internalID: -6223363004214408636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fa000618041e0e0800000000000000
+      internalID: -2242440215048179941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010a5f80333342590800000000000000
+      internalID: -7699973168610041840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3037b12917b2bf4c0800000000000000
+      internalID: -4252757656338730237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa9f664619e34fc0800000000000000
+      internalID: -3511707002538583381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f14b6a1652c75940800000000000000
+      internalID: 5284906362808779249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73f58eccb9ef9350800000000000000
+      internalID: 6025791823573021567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92adfea8b6a253d0800000000000000
+      internalID: -3219327471476432228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8051db9ebac8e8ef0800000000000000
+      internalID: -103991071394163448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e84cdec024c660800000000000000
+      internalID: 7405079760135055388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e22865be1d58a8d0800000000000000
+      internalID: -2834913578955824410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a021a131b295ad0800000000000000
+      internalID: -2713089939472250281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7953bf61ea99b6940800000000000000
+      internalID: 5290491160265700759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1461037d36d7613f0800000000000000
+      internalID: -930418405239941567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a50da30095e190800000000000000
+      internalID: -7933776823081129902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791c96f72673d95f0800000000000000
+      internalID: -748381066889674345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac3e636b880aedc0800000000000000
+      internalID: -3609062756622386007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0789e826acf414600800000000000000
+      internalID: 450729168369260656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f757d08a536788f70800000000000000
+      internalID: 9189725012474295679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1f7b75da1510b50800000000000000
+      internalID: 6557612337371017671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8db2566c07b3cc0800000000000000
+      internalID: -3730263868943116033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95563e7c32985f3b0800000000000000
+      internalID: -5479322584855911079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6fad58ca07982b0800000000000000
+      internalID: -5581806376866613531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026fa4c89c8b21d60800000000000000
+      internalID: 7859547475496597024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2eda57850d71760800000000000000
+      internalID: 7428635188720952014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab383c6e6c006ea0800000000000000
+      internalID: -5881687444944307291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3618e408e9ef5800800000000000000
+      internalID: 603458057814939198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c14017b8ec4e9a0800000000000000
+      internalID: -6204607288317830010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b1c6963769b3eb0800000000000000
+      internalID: -4739028760443217100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628309bbdd4b5b190800000000000000
+      internalID: -7947247102997809114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb467bd7f3ecccf0800000000000000
+      internalID: -230558827224347679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cb8c949712d7710800000000000000
+      internalID: 1692545839773826085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f105682b52b41c0800000000000000
+      internalID: -4518476352448356579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec280e06a95104270800000000000000
+      internalID: 8232603871627739854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a2eba49b4257de0800000000000000
+      internalID: -1336121336203957697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02d9ca7012b60d30800000000000000
+      internalID: 4397397870023135757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5c2c34215674aa0800000000000000
+      internalID: -6176857234794691077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaa84f46cfd679d0800000000000000
+      internalID: -2776786077400651101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b92d0538576710800000000000000
+      internalID: 1686413570350888178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cc88fcd98800410800000000000000
+      internalID: 1441302092131650636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252aa7f4184557d20800000000000000
+      internalID: 3275617218342855250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030b1995bd81888d0800000000000000
+      internalID: -2843995834304843728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba41d62c90b22650800000000000000
+      internalID: 6206717421182601913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f63d8039373efb50800000000000000
+      internalID: 6628796420303173365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deed189ab2c992b0800000000000000
+      internalID: -5577212556849844519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db508128e5e5c5fd0800000000000000
+      internalID: -2351901145391692355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27abdd497e2c14730800000000000000
+      internalID: 3981677845463022194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c6bc5e98df4cc60800000000000000
+      internalID: 7837668020239166562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2544591173d624d0800000000000000
+      internalID: -3159605605844105937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f828f8308dc4db0800000000000000
+      internalID: -4806229192506962052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5bb6ea83cb9060800000000000000
+      internalID: 6961372650375175021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c673aa614023280800000000000000
+      internalID: -9065178604551836600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aac4392b2eb67d0800000000000000
+      internalID: -2923994276443674070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17617f430ba5e9010800000000000000
+      internalID: 1197494263776482929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88eb45bcfd1ce540800000000000000
+      internalID: 5038435054331357325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ad945ba0153fb20800000000000000
+      internalID: 3166964069404629536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1687fc83bc6293cb0800000000000000
+      internalID: -4883829666633254815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668fcd2d67add2d60800000000000000
+      internalID: 7867184327964817510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22239fd137519db0800000000000000
+      internalID: -4786949057202150867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9098c42c15eec3a10800000000000000
+      internalID: 1890647978508323081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbcbd15a196241a0800000000000000
+      internalID: -6826778523376825358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94758923eda626110800000000000000
+      internalID: 1252681148926547785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f069e88a9aa4ad0800000000000000
+      internalID: -2717172883752874083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0ef5bebc90bf4a0800000000000000
+      internalID: -6558637660903055177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b27306e05f2ca6c0800000000000000
+      internalID: -4130874733702712656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f7275f7b15c3c10800000000000000
+      internalID: 2034590982203408255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401d7ac8df0ab46d0800000000000000
+      internalID: -3005131315492695804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cbc15d7cf572760800000000000000
+      internalID: 7433015021876853891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c4b178c185d7ed0800000000000000
+      internalID: -2414676945651676001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e64c3758d67bc730800000000000000
+      internalID: 4020437763906881251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc02fc20a36408880800000000000000
+      internalID: -8610805272563212085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff91951f6cb63440800000000000000
+      internalID: 4915323228610732023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536172558107dc300800000000000000
+      internalID: 273998402149619253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cecce9c49ccfa170800000000000000
+      internalID: 8191991186625187528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457f55a04f30cbd00800000000000000
+      internalID: 989670364794976084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd08a762b3f8fec0800000000000000
+      internalID: -3532805960103359020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f265928776d9a6f70800000000000000
+      internalID: 9181323858071344687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aec9f8cdc17ca70800000000000000
+      internalID: 8847071726620437138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec72d03772aeb1c0800000000000000
+      internalID: -4485969546010526492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da6c862cec2a91b0800000000000000
+      internalID: -5649153389812225327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55357e48967b61f0800000000000000
+      internalID: -1050615691537468065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf032bcd038f83e0800000000000000
+      internalID: -2049275210164400186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0294993685fc72660800000000000000
+      internalID: 7361080094495426848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986b81cb50e222db0800000000000000
+      internalID: -4818238049167559031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_91
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c395d5b7a63f17b0800000000000000
+      internalID: -5251418546552597562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d17b9b8ca1654f40800000000000000
+      internalID: 5712079096093831638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_93
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c236b29938d3f40800000000000000
+      internalID: 5709864596456811616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee63fbd268cd4dc0800000000000000
+      internalID: -3653043395805090070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map m archers ds_95
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935a8f65ef7102260800000000000000
+      internalID: 7070677796119946553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 57944d7e46ca3fa428ca08d914136878
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Wizard1
+      TermType: 0
+      Description: 
+      Languages:
+      - Boy, are you lost?
+      - "C\u1EADu b\xE9,c\u1EADu l\u1EA1c \u0111\u01B0\u1EDDng sao ?"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Boy1
+      TermType: 0
+      Description: 
+      Languages:
+      - No. I am in the right place.
+      - "Kh\xF4ng. T\xF4i \u0111ang \u1EDF \u0111\xFAng ch\u1ED7 t\xF4i mu\u1ED1n.\r\n"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Wizard2
+      TermType: 0
+      Description: 
+      Languages:
+      - I've been guarding here for 173 years. A lot of people have said so. Come
+        home before it's too late
+      - "Ta \u0111\xE3 canh g\xE1c \u1EDF \u0111\xE2y 173 n\u0103m r\u1ED3i.\u0110\xE3
+        c\xF3 nhi\u1EC1u ng\u01B0\u1EDDi n\xF3i nh\u01B0 v\u1EADy.H\xE3y tr\u1EDF
+        v\u1EC1 nh\xE0 tr\u01B0\u1EDBc khi qu\xE1 mu\u1ED9n"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Boy2
+      TermType: 0
+      Description: 
+      Languages:
+      - I have been preparing for this for 6 years. I need money to be able to marry
+        her. The Countess's daughter. Princess of my life, nothing can stop me now.
+      - "T\xF4i \u0111\xE3 chu\u1EA9n b\u1ECB cho \u0111i\u1EC1u n\xE0y 6 n\u0103m
+        r\u1ED3i.T\xF4i c\u1EA7n ti\u1EC1n \u0111\u1EC3 c\xF3 th\u1EC3 c\u01B0\u1EDBi
+        n\xE0ng. Con g\xE1i c\u1EE7a b\xE1 t\u01B0\u1EDBc. C\xF4ng ch\xFAa c\u1EE7a
+        cu\u1ED9c \u0111\u1EDDi t\xF4i.Kh\xF4ng c\xF3 g\xEC c\xF3 th\u1EC3 ng\u0103n
+        c\u1EA3n t\xF4i l\xFAc n\xE0y.\t"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Wizard3
+      TermType: 0
+      Description: 
+      Languages:
+      - It's up to you. First try to beat me. When I was defeated, the gate would
+        open.
+      - "T\xF9y c\u1EADu th\xF4i. Tr\u01B0\u1EDBc h\u1EBFt h\xE3y th\u1EED \u0111\xE1nh
+        b\u1EA1i ta \u0111\xE3. khi \u0111\xE1nh b\u1EA1i \u0111c ta c\xE1nh c\u1ED5ng
+        s\u1EBD m\u1EDF ra."
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Wizard4
+      TermType: 0
+      Description: 
+      Languages:
+      - I underestimated you. Be careful and always protect yourself while down there.
+        Good luck.
+      - "Ta \u0111\xE3 \u0111\xE1nh gi\xE1 th\u1EA5p c\u1EADu . H\xE3y c\u1EA9n th\u1EA9n
+        v\xE0 lu\xF4n b\u1EA3o v\u1EC7 m\xECnh khi \u1EDF d\u01B0\u1EDBi \u0111\xF3.
+        Ch\xFAc may m\u1EAFn."
+      Flags: 0000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English (United States)
+      Code: en-US
+      Flags: 0
+    - Name: Vietnamese
+      Code: vi
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 1
+    Google_WebServiceURL: https://script.google.com/macros/d/16nXh8_98-7vJiH17PpV-pkAgtQeaxzYwQy-BmNjP0s2dszWVXHElzpbj/edit
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateDelay: 5
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
